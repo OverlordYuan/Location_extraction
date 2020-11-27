@@ -1,0 +1,1000 @@
+2020-10-28 18:04:02,463 - __main__ - INFO - Program version-1.3.1, Content length = 483,uuid = ,indexName =  ,time elapse =10216ms,result={'keyword': ['3#乐山']}.
+2020-10-28 18:04:02,483 - __main__ - INFO - Program version-1.3.1, Content length = 334,uuid = ,indexName =  ,time elapse =9725ms,result={'keyword': ['2#上海']}.
+2020-10-28 18:04:02,523 - __main__ - INFO - Program version-1.3.1, Content length = 2533,uuid = ,indexName =  ,time elapse =40044ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:02,533 - __main__ - INFO - Program version-1.3.1, Content length = 274,uuid = ,indexName =  ,time elapse =9991ms,result={'keyword': ['2#陕西']}.
+2020-10-28 18:04:02,583 - __main__ - INFO - Program version-1.3.1, Content length = 2783,uuid = ,indexName =  ,time elapse =50244ms,result={'keyword': ['1#中国', '2#上海']}.
+2020-10-28 18:04:02,603 - __main__ - INFO - Program version-1.3.1, Content length = 956,uuid = ,indexName =  ,time elapse =19825ms,result={'keyword': ['2#湖北', '4#额敏县']}.
+2020-10-28 18:04:02,613 - __main__ - INFO - Program version-1.3.1, Content length = 813,uuid = ,indexName =  ,time elapse =9950ms,result={'keyword': ['4#西湖区', '4#进贤县', '4#新建区', '4#青云谱区', '4#安义县', '4#湾里区', '4#青山湖区', '4#南昌县', '4#东湖区', '4#城区']}.
+2020-10-28 18:04:02,633 - __main__ - INFO - Program version-1.3.1, Content length = 1256,uuid = ,indexName =  ,time elapse =19928ms,result={'keyword': ['2#河南']}.
+2020-10-28 18:04:02,643 - __main__ - INFO - Program version-1.3.1, Content length = 8,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:02,653 - __main__ - INFO - Program version-1.3.1, Content length = 228,uuid = ,indexName =  ,time elapse =9994ms,result={'keyword': []}.
+2020-10-28 18:04:02,665 - __main__ - INFO - Program version-1.3.1, Content length = 692,uuid = ,indexName =  ,time elapse =12399ms,result={'keyword': []}.
+2020-10-28 18:04:02,693 - __main__ - INFO - Program version-1.3.1, Content length = 1723,uuid = ,indexName =  ,time elapse =27684ms,result={'keyword': []}.
+2020-10-28 18:04:02,703 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:02,713 - __main__ - INFO - Program version-1.3.1, Content length = 520,uuid = ,indexName =  ,time elapse =10159ms,result={'keyword': []}.
+2020-10-28 18:04:02,724 - __main__ - INFO - Program version-1.3.1, Content length = 401,uuid = ,indexName =  ,time elapse =5106ms,result={'keyword': ['2#湖北', '1#中国', '4#汉阳区', '3#武汉']}.
+2020-10-28 18:04:02,753 - __main__ - INFO - Program version-1.3.1, Content length = 1717,uuid = ,indexName =  ,time elapse =29789ms,result={'keyword': ['2#浙江']}.
+2020-10-28 18:04:02,784 - __main__ - INFO - Program version-1.3.1, Content length = 1801,uuid = ,indexName =  ,time elapse =30245ms,result={'keyword': ['1#中国', '2#上海', '4#义乌市']}.
+2020-10-28 18:04:02,794 - __main__ - INFO - Program version-1.3.1, Content length = 168,uuid = ,indexName =  ,time elapse =9993ms,result={'keyword': ['4#平遥县']}.
+2020-10-28 18:04:02,794 - __main__ - INFO - Program version-1.3.1, Content length = 241,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#沈阳']}.
+2020-10-28 18:04:02,803 - __main__ - INFO - Program version-1.3.1, Content length = 258,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国', '3#漳州']}.
+2020-10-28 18:04:02,823 - __main__ - INFO - Program version-1.3.1, Content length = 611,uuid = ,indexName =  ,time elapse =20095ms,result={'keyword': []}.
+2020-10-28 18:04:02,843 - __main__ - INFO - Program version-1.3.1, Content length = 1248,uuid = ,indexName =  ,time elapse =20145ms,result={'keyword': ['4#元宝山区']}.
+2020-10-28 18:04:02,866 - __main__ - INFO - Program version-1.3.1, Content length = 831,uuid = ,indexName =  ,time elapse =12231ms,result={'keyword': ['1#中国', '2#新疆']}.
+2020-10-28 18:04:02,873 - __main__ - INFO - Program version-1.3.1, Content length = 359,uuid = ,indexName =  ,time elapse =7573ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:02,893 - __main__ - INFO - Program version-1.3.1, Content length = 933,uuid = ,indexName =  ,time elapse =10128ms,result={'keyword': []}.
+2020-10-28 18:04:02,933 - __main__ - INFO - Program version-1.3.1, Content length = 2389,uuid = ,indexName =  ,time elapse =39983ms,result={'keyword': ['4#呈贡区', '2#云南', '4#东川区', '4#富民县']}.
+2020-10-28 18:04:02,973 - __main__ - INFO - Program version-1.3.1, Content length = 1557,uuid = ,indexName =  ,time elapse =30265ms,result={'keyword': ['2#天津']}.
+2020-10-28 18:04:02,993 - __main__ - INFO - Program version-1.3.1, Content length = 991,uuid = ,indexName =  ,time elapse =14602ms,result={'keyword': ['1#中国', '2#河南', '4#平泉县', '4#林西县', '2#河北', '3#承德']}.
+2020-10-28 18:04:03,023 - __main__ - INFO - Program version-1.3.1, Content length = 1945,uuid = ,indexName =  ,time elapse =30181ms,result={'keyword': ['1#中国', '2#山西', '3#阳泉']}.
+2020-10-28 18:04:03,033 - __main__ - INFO - Program version-1.3.1, Content length = 60,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:03,053 - __main__ - INFO - Program version-1.3.1, Content length = 629,uuid = ,indexName =  ,time elapse =14943ms,result={'keyword': []}.
+2020-10-28 18:04:03,063 - __main__ - INFO - Program version-1.3.1, Content length = 431,uuid = ,indexName =  ,time elapse =10053ms,result={'keyword': ['4#界首市', '2#安徽']}.
+2020-10-28 18:04:03,078 - __main__ - INFO - Program version-1.3.1, Content length = 531,uuid = ,indexName =  ,time elapse =12618ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:03,088 - __main__ - INFO - Program version-1.3.1, Content length = 522,uuid = ,indexName =  ,time elapse =10076ms,result={'keyword': ['1#中国', '2#云南']}.
+2020-10-28 18:04:03,104 - __main__ - INFO - Program version-1.3.1, Content length = 668,uuid = ,indexName =  ,time elapse =10148ms,result={'keyword': ['2#新疆', '4#轮台县']}.
+2020-10-28 18:04:03,118 - __main__ - INFO - Program version-1.3.1, Content length = 653,uuid = ,indexName =  ,time elapse =14903ms,result={'keyword': ['4#汉滨区', '2#陕西', '2#上海', '3#安康', '2#广东', '2#北京']}.
+2020-10-28 18:04:03,133 - __main__ - INFO - Program version-1.3.1, Content length = 604,uuid = ,indexName =  ,time elapse =14713ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:03,144 - __main__ - INFO - Program version-1.3.1, Content length = 430,uuid = ,indexName =  ,time elapse =10351ms,result={'keyword': ['4#麒麟区']}.
+2020-10-28 18:04:03,166 - __main__ - INFO - Program version-1.3.1, Content length = 1506,uuid = ,indexName =  ,time elapse =22329ms,result={'keyword': ['4#会泽县']}.
+2020-10-28 18:04:03,173 - __main__ - INFO - Program version-1.3.1, Content length = 78,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:03,208 - __main__ - INFO - Program version-1.3.1, Content length = 1659,uuid = ,indexName =  ,time elapse =34979ms,result={'keyword': ['1#中国', '3#无锡', '4#城区', '2#江苏']}.
+2020-10-28 18:04:03,243 - __main__ - INFO - Program version-1.3.1, Content length = 1808,uuid = ,indexName =  ,time elapse =29923ms,result={'keyword': ['1#中国', '3#厦门', '2#北京', '4#定南县', '2#江西', '4#城区']}.
+2020-10-28 18:04:03,266 - __main__ - INFO - Program version-1.3.1, Content length = 1375,uuid = ,indexName =  ,time elapse =22573ms,result={'keyword': ['3#平凉', '4#崆峒区']}.
+2020-10-28 18:04:03,293 - __main__ - INFO - Program version-1.3.1, Content length = 1231,uuid = ,indexName =  ,time elapse =27333ms,result={'keyword': []}.
+2020-10-28 18:04:03,313 - __main__ - INFO - Program version-1.3.1, Content length = 1076,uuid = ,indexName =  ,time elapse =20080ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:03,334 - __main__ - INFO - Program version-1.3.1, Content length = 1152,uuid = ,indexName =  ,time elapse =20229ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:03,353 - __main__ - INFO - Program version-1.3.1, Content length = 709,uuid = ,indexName =  ,time elapse =19605ms,result={'keyword': []}.
+2020-10-28 18:04:03,353 - __main__ - INFO - Program version-1.3.1, Content length = 6,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:03,353 - __main__ - INFO - Program version-1.3.1, Content length = 139,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#城区']}.
+2020-10-28 18:04:03,366 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:03,383 - __main__ - INFO - Program version-1.3.1, Content length = 833,uuid = ,indexName =  ,time elapse =17233ms,result={'keyword': ['2#西藏']}.
+2020-10-28 18:04:03,403 - __main__ - INFO - Program version-1.3.1, Content length = 1229,uuid = ,indexName =  ,time elapse =19918ms,result={'keyword': ['4#胶州市']}.
+2020-10-28 18:04:03,424 - __main__ - INFO - Program version-1.3.1, Content length = 1396,uuid = ,indexName =  ,time elapse =20295ms,result={'keyword': ['2#山东', '4#市中区', '3#枣庄', '3#日照', '4#牟平区', '3#烟台']}.
+2020-10-28 18:04:03,448 - __main__ - INFO - Program version-1.3.1, Content length = 634,uuid = ,indexName =  ,time elapse =15199ms,result={'keyword': ['2#河北', '4#大厂回族自治县']}.
+2020-10-28 18:04:03,464 - __main__ - INFO - Program version-1.3.1, Content length = 737,uuid = ,indexName =  ,time elapse =10100ms,result={'keyword': ['3#泰安']}.
+2020-10-28 18:04:03,483 - __main__ - INFO - Program version-1.3.1, Content length = 978,uuid = ,indexName =  ,time elapse =17181ms,result={'keyword': ['2#河南', '4#三河市']}.
+2020-10-28 18:04:03,513 - __main__ - INFO - Program version-1.3.1, Content length = 1712,uuid = ,indexName =  ,time elapse =29913ms,result={'keyword': ['1#中国', '2#宁夏']}.
+2020-10-28 18:04:03,667 - __main__ - INFO - Program version-1.3.1, Content length = 9786,uuid = ,indexName =  ,time elapse =153911ms,result={'keyword': ['1#中国', '2#广东', '3#东莞']}.
+2020-10-28 18:04:03,673 - __main__ - INFO - Program version-1.3.1, Content length = 525,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#城区']}.
+2020-10-28 18:04:03,693 - __main__ - INFO - Program version-1.3.1, Content length = 460,uuid = ,indexName =  ,time elapse =10131ms,result={'keyword': ['1#中国', '3#三亚', '2#海南']}.
+2020-10-28 18:04:03,704 - __main__ - INFO - Program version-1.3.1, Content length = 906,uuid = ,indexName =  ,time elapse =10157ms,result={'keyword': ['2#香港']}.
+2020-10-28 18:04:03,729 - __main__ - INFO - Program version-1.3.1, Content length = 724,uuid = ,indexName =  ,time elapse =15368ms,result={'keyword': ['2#香港']}.
+2020-10-28 18:04:03,744 - __main__ - INFO - Program version-1.3.1, Content length = 808,uuid = ,indexName =  ,time elapse =15017ms,result={'keyword': ['4#张北县', '2#北京', '3#西城区']}.
+2020-10-28 18:04:03,744 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:03,763 - __main__ - INFO - Program version-1.3.1, Content length = 651,uuid = ,indexName =  ,time elapse =19642ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:03,778 - __main__ - INFO - Program version-1.3.1, Content length = 706,uuid = ,indexName =  ,time elapse =11153ms,result={'keyword': ['1#中国', '2#北京']}.
+2020-10-28 18:04:03,793 - __main__ - INFO - Program version-1.3.1, Content length = 606,uuid = ,indexName =  ,time elapse =10057ms,result={'keyword': ['2#江苏']}.
+2020-10-28 18:04:03,793 - __main__ - INFO - Program version-1.3.1, Content length = 100,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#邢台县']}.
+2020-10-28 18:04:03,803 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =9718ms,result={'keyword': []}.
+2020-10-28 18:04:03,803 - __main__ - INFO - Program version-1.3.1, Content length = 200,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:03,853 - __main__ - INFO - Program version-1.3.1, Content length = 2753,uuid = ,indexName =  ,time elapse =39847ms,result={'keyword': ['1#中国', '2#香港']}.
+2020-10-28 18:04:03,867 - __main__ - INFO - Program version-1.3.1, Content length = 630,uuid = ,indexName =  ,time elapse =14096ms,result={'keyword': ['2#山西']}.
+2020-10-28 18:04:03,873 - __main__ - INFO - Program version-1.3.1, Content length = 206,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:03,873 - __main__ - INFO - Program version-1.3.1, Content length = 89,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:03,893 - __main__ - INFO - Program version-1.3.1, Content length = 536,uuid = ,indexName =  ,time elapse =9691ms,result={'keyword': ['4#郾城区']}.
+2020-10-28 18:04:03,904 - __main__ - INFO - Program version-1.3.1, Content length = 330,uuid = ,indexName =  ,time elapse =10407ms,result={'keyword': ['3#银川']}.
+2020-10-28 18:04:03,904 - __main__ - INFO - Program version-1.3.1, Content length = 185,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:03,913 - __main__ - INFO - Program version-1.3.1, Content length = 446,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#固原', '4#泾源县', '3#银川']}.
+2020-10-28 18:04:03,943 - __main__ - INFO - Program version-1.3.1, Content length = 1451,uuid = ,indexName =  ,time elapse =19712ms,result={'keyword': []}.
+2020-10-28 18:04:03,953 - __main__ - INFO - Program version-1.3.1, Content length = 594,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#安顺', '2#贵州', '3#六盘水', '3#铜仁', '3#毕节']}.
+2020-10-28 18:04:03,993 - __main__ - INFO - Program version-1.3.1, Content length = 1908,uuid = ,indexName =  ,time elapse =26272ms,result={'keyword': ['3#银川', '4#兴庆区']}.
+2020-10-28 18:04:04,013 - __main__ - INFO - Program version-1.3.1, Content length = 1376,uuid = ,indexName =  ,time elapse =19856ms,result={'keyword': ['1#中国', '2#北京', '2#黑龙江']}.
+2020-10-28 18:04:04,023 - __main__ - INFO - Program version-1.3.1, Content length = 270,uuid = ,indexName =  ,time elapse =9950ms,result={'keyword': ['4#锦屏县', '2#贵州']}.
+2020-10-28 18:04:04,053 - __main__ - INFO - Program version-1.3.1, Content length = 1617,uuid = ,indexName =  ,time elapse =24990ms,result={'keyword': ['2#内蒙古', '1#中国']}.
+2020-10-28 18:04:04,073 - __main__ - INFO - Program version-1.3.1, Content length = 1049,uuid = ,indexName =  ,time elapse =20116ms,result={'keyword': ['4#城区', '4#达川区']}.
+2020-10-28 18:04:04,089 - __main__ - INFO - Program version-1.3.1, Content length = 627,uuid = ,indexName =  ,time elapse =15251ms,result={'keyword': []}.
+2020-10-28 18:04:04,093 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:04,103 - __main__ - INFO - Program version-1.3.1, Content length = 337,uuid = ,indexName =  ,time elapse =10126ms,result={'keyword': ['4#麦积区']}.
+2020-10-28 18:04:04,114 - __main__ - INFO - Program version-1.3.1, Content length = 461,uuid = ,indexName =  ,time elapse =10323ms,result={'keyword': ['2#重庆', '2#江苏', '2#贵州', '2#湖北', '2#浙江', '2#湖南', '2#上海', '2#安徽', '2#广西', '2#北京', '2#江西']}.
+2020-10-28 18:04:04,143 - __main__ - INFO - Program version-1.3.1, Content length = 1769,uuid = ,indexName =  ,time elapse =29685ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:04,153 - __main__ - INFO - Program version-1.3.1, Content length = 764,uuid = ,indexName =  ,time elapse =10145ms,result={'keyword': ['2#重庆']}.
+2020-10-28 18:04:04,193 - __main__ - INFO - Program version-1.3.1, Content length = 1886,uuid = ,indexName =  ,time elapse =29579ms,result={'keyword': ['1#中国', '4#麦积区', '3#天水']}.
+2020-10-28 18:04:04,203 - __main__ - INFO - Program version-1.3.1, Content length = 228,uuid = ,indexName =  ,time elapse =10246ms,result={'keyword': ['4#金川区', '3#金昌']}.
+2020-10-28 18:04:04,248 - __main__ - INFO - Program version-1.3.1, Content length = 2627,uuid = ,indexName =  ,time elapse =45065ms,result={'keyword': ['3#广州']}.
+2020-10-28 18:04:04,273 - __main__ - INFO - Program version-1.3.1, Content length = 1828,uuid = ,indexName =  ,time elapse =19920ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:04,283 - __main__ - INFO - Program version-1.3.1, Content length = 22,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:04,294 - __main__ - INFO - Program version-1.3.1, Content length = 410,uuid = ,indexName =  ,time elapse =10462ms,result={'keyword': ['4#习水县', '3#遵义', '2#贵州']}.
+2020-10-28 18:04:04,303 - __main__ - INFO - Program version-1.3.1, Content length = 1014,uuid = ,indexName =  ,time elapse =9914ms,result={'keyword': []}.
+2020-10-28 18:04:04,314 - __main__ - INFO - Program version-1.3.1, Content length = 11,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:04,323 - __main__ - INFO - Program version-1.3.1, Content length = 194,uuid = ,indexName =  ,time elapse =9558ms,result={'keyword': ['3#通州区', '2#北京']}.
+2020-10-28 18:04:04,323 - __main__ - INFO - Program version-1.3.1, Content length = 31,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国', '2#浙江']}.
+2020-10-28 18:04:04,323 - __main__ - INFO - Program version-1.3.1, Content length = 158,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#济南']}.
+2020-10-28 18:04:04,333 - __main__ - INFO - Program version-1.3.1, Content length = 158,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#江西']}.
+2020-10-28 18:04:04,358 - __main__ - INFO - Program version-1.3.1, Content length = 1094,uuid = ,indexName =  ,time elapse =25146ms,result={'keyword': []}.
+2020-10-28 18:04:04,373 - __main__ - INFO - Program version-1.3.1, Content length = 1247,uuid = ,indexName =  ,time elapse =10184ms,result={'keyword': ['2#上海']}.
+2020-10-28 18:04:04,403 - __main__ - INFO - Program version-1.3.1, Content length = 1093,uuid = ,indexName =  ,time elapse =20210ms,result={'keyword': ['3#普陀区', '3#静安区', '3#杨浦区', '2#上海']}.
+2020-10-28 18:04:04,413 - __main__ - INFO - Program version-1.3.1, Content length = 662,uuid = ,indexName =  ,time elapse =10140ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:04,463 - __main__ - INFO - Program version-1.3.1, Content length = 2851,uuid = ,indexName =  ,time elapse =49632ms,result={'keyword': ['1#中国', '4#濉溪县', '4#和县', '4#城区']}.
+2020-10-28 18:04:04,473 - __main__ - INFO - Program version-1.3.1, Content length = 811,uuid = ,indexName =  ,time elapse =5600ms,result={'keyword': ['4#金川区', '4#北湖区', '2#甘肃', '2#湖南', '3#金昌', '3#郴州']}.
+2020-10-28 18:04:04,499 - __main__ - INFO - Program version-1.3.1, Content length = 960,uuid = ,indexName =  ,time elapse =15049ms,result={'keyword': ['4#平原县', '2#山东']}.
+2020-10-28 18:04:04,513 - __main__ - INFO - Program version-1.3.1, Content length = 743,uuid = ,indexName =  ,time elapse =10102ms,result={'keyword': []}.
+2020-10-28 18:04:04,568 - __main__ - INFO - Program version-1.3.1, Content length = 3062,uuid = ,indexName =  ,time elapse =54731ms,result={'keyword': ['4#浦江县', '2#浙江', '4#新城区']}.
+2020-10-28 18:04:04,583 - __main__ - INFO - Program version-1.3.1, Content length = 607,uuid = ,indexName =  ,time elapse =9932ms,result={'keyword': ['4#平原县', '4#临邑县', '4#庆云县']}.
+2020-10-28 18:04:04,583 - __main__ - INFO - Program version-1.3.1, Content length = 160,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:04,593 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:04,613 - __main__ - INFO - Program version-1.3.1, Content length = 954,uuid = ,indexName =  ,time elapse =20108ms,result={'keyword': ['2#湖北', '1#中国']}.
+2020-10-28 18:04:04,623 - __main__ - INFO - Program version-1.3.1, Content length = 633,uuid = ,indexName =  ,time elapse =9776ms,result={'keyword': ['2#海南']}.
+2020-10-28 18:04:04,633 - __main__ - INFO - Program version-1.3.1, Content length = 504,uuid = ,indexName =  ,time elapse =10100ms,result={'keyword': []}.
+2020-10-28 18:04:04,648 - __main__ - INFO - Program version-1.3.1, Content length = 355,uuid = ,indexName =  ,time elapse =5007ms,result={'keyword': []}.
+2020-10-28 18:04:04,658 - __main__ - INFO - Program version-1.3.1, Content length = 482,uuid = ,indexName =  ,time elapse =5038ms,result={'keyword': ['4#道县']}.
+2020-10-28 18:04:04,673 - __main__ - INFO - Program version-1.3.1, Content length = 617,uuid = ,indexName =  ,time elapse =10212ms,result={'keyword': ['3#海口']}.
+2020-10-28 18:04:04,683 - __main__ - INFO - Program version-1.3.1, Content length = 474,uuid = ,indexName =  ,time elapse =9906ms,result={'keyword': ['2#山东', '3#德州']}.
+2020-10-28 18:04:04,703 - __main__ - INFO - Program version-1.3.1, Content length = 984,uuid = ,indexName =  ,time elapse =19812ms,result={'keyword': ['1#中国', '2#上海']}.
+2020-10-28 18:04:04,753 - __main__ - INFO - Program version-1.3.1, Content length = 2820,uuid = ,indexName =  ,time elapse =49936ms,result={'keyword': []}.
+2020-10-28 18:04:04,753 - __main__ - INFO - Program version-1.3.1, Content length = 75,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:04,893 - __main__ - INFO - Program version-1.3.1, Content length = 10000,uuid = ,indexName =  ,time elapse =129863ms,result={'keyword': ['1#中国', '3#成都', '2#上海', '2#安徽', '2#广东', '3#合肥', '4#龙泉驿区']}.
+2020-10-28 18:04:04,913 - __main__ - INFO - Program version-1.3.1, Content length = 612,uuid = ,indexName =  ,time elapse =9850ms,result={'keyword': []}.
+2020-10-28 18:04:04,954 - __main__ - INFO - Program version-1.3.1, Content length = 2482,uuid = ,indexName =  ,time elapse =40348ms,result={'keyword': ['1#中国', '4#海南区', '2#海南']}.
+2020-10-28 18:04:05,013 - __main__ - INFO - Program version-1.3.1, Content length = 3241,uuid = ,indexName =  ,time elapse =50152ms,result={'keyword': ['4#高明区', '2#广东', '4#禅城区', '4#顺德区']}.
+2020-10-28 18:04:05,028 - __main__ - INFO - Program version-1.3.1, Content length = 385,uuid = ,indexName =  ,time elapse =5038ms,result={'keyword': ['3#洛阳']}.
+2020-10-28 18:04:05,053 - __main__ - INFO - Program version-1.3.1, Content length = 1582,uuid = ,indexName =  ,time elapse =19792ms,result={'keyword': ['4#西区', '2#河南', '2#甘肃', '2#内蒙古', '2#吉林']}.
+2020-10-28 18:04:05,063 - __main__ - INFO - Program version-1.3.1, Content length = 184,uuid = ,indexName =  ,time elapse =10158ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:05,073 - __main__ - INFO - Program version-1.3.1, Content length = 642,uuid = ,indexName =  ,time elapse =10022ms,result={'keyword': ['4#乌当区', '3#贵阳']}.
+2020-10-28 18:04:05,073 - __main__ - INFO - Program version-1.3.1, Content length = 5,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:05,083 - __main__ - INFO - Program version-1.3.1, Content length = 308,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#湖北', '2#重庆', '2#上海']}.
+2020-10-28 18:04:05,093 - __main__ - INFO - Program version-1.3.1, Content length = 19,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:05,093 - __main__ - INFO - Program version-1.3.1, Content length = 3,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:05,103 - __main__ - INFO - Program version-1.3.1, Content length = 39,uuid = ,indexName =  ,time elapse =9811ms,result={'keyword': ['3#武汉']}.
+2020-10-28 18:04:05,103 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:05,143 - __main__ - INFO - Program version-1.3.1, Content length = 2287,uuid = ,indexName =  ,time elapse =40224ms,result={'keyword': ['2#贵州']}.
+2020-10-28 18:04:05,174 - __main__ - INFO - Program version-1.3.1, Content length = 1727,uuid = ,indexName =  ,time elapse =30033ms,result={'keyword': ['4#大方县']}.
+2020-10-28 18:04:05,183 - __main__ - INFO - Program version-1.3.1, Content length = 175,uuid = ,indexName =  ,time elapse =9972ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:05,193 - __main__ - INFO - Program version-1.3.1, Content length = 520,uuid = ,indexName =  ,time elapse =9874ms,result={'keyword': ['2#青海', '3#西宁']}.
+2020-10-28 18:04:05,236 - __main__ - INFO - Program version-1.3.1, Content length = 2000,uuid = ,indexName =  ,time elapse =42594ms,result={'keyword': ['4#瑞金市', '2#江西']}.
+2020-10-28 18:04:05,253 - __main__ - INFO - Program version-1.3.1, Content length = 930,uuid = ,indexName =  ,time elapse =17386ms,result={'keyword': ['4#简阳市']}.
+2020-10-28 18:04:05,253 - __main__ - INFO - Program version-1.3.1, Content length = 60,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:05,269 - __main__ - INFO - Program version-1.3.1, Content length = 241,uuid = ,indexName =  ,time elapse =5290ms,result={'keyword': []}.
+2020-10-28 18:04:05,283 - __main__ - INFO - Program version-1.3.1, Content length = 1083,uuid = ,indexName =  ,time elapse =10181ms,result={'keyword': []}.
+2020-10-28 18:04:05,293 - __main__ - INFO - Program version-1.3.1, Content length = 443,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#上海']}.
+2020-10-28 18:04:05,303 - __main__ - INFO - Program version-1.3.1, Content length = 104,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:05,328 - __main__ - INFO - Program version-1.3.1, Content length = 1059,uuid = ,indexName =  ,time elapse =24725ms,result={'keyword': ['3#南昌', '2#江西', '4#青山湖区']}.
+2020-10-28 18:04:05,383 - __main__ - INFO - Program version-1.3.1, Content length = 2843,uuid = ,indexName =  ,time elapse =49925ms,result={'keyword': ['1#中国', '2#湖北']}.
+2020-10-28 18:04:05,383 - __main__ - INFO - Program version-1.3.1, Content length = 106,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#台湾', '4#仙居县', '2#浙江', '3#台州']}.
+2020-10-28 18:04:05,393 - __main__ - INFO - Program version-1.3.1, Content length = 503,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#保定', '2#河北', '2#北京', '4#安新县']}.
+2020-10-28 18:04:05,423 - __main__ - INFO - Program version-1.3.1, Content length = 1216,uuid = ,indexName =  ,time elapse =20160ms,result={'keyword': ['1#中国', '4#永清县', '2#河北', '2#内蒙古', '2#北京']}.
+2020-10-28 18:04:05,423 - __main__ - INFO - Program version-1.3.1, Content length = 208,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#云南', '2#重庆', '2#广东', '2#四川']}.
+2020-10-28 18:04:05,434 - __main__ - INFO - Program version-1.3.1, Content length = 144,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:05,443 - __main__ - INFO - Program version-1.3.1, Content length = 153,uuid = ,indexName =  ,time elapse =9804ms,result={'keyword': ['2#广西']}.
+2020-10-28 18:04:05,443 - __main__ - INFO - Program version-1.3.1, Content length = 125,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#四川', '4#青白江区', '3#成都']}.
+2020-10-28 18:04:05,458 - __main__ - INFO - Program version-1.3.1, Content length = 467,uuid = ,indexName =  ,time elapse =15048ms,result={'keyword': ['1#中国', '2#北京']}.
+2020-10-28 18:04:05,483 - __main__ - INFO - Program version-1.3.1, Content length = 1308,uuid = ,indexName =  ,time elapse =24789ms,result={'keyword': ['3#周口', '4#城区']}.
+2020-10-28 18:04:05,523 - __main__ - INFO - Program version-1.3.1, Content length = 2243,uuid = ,indexName =  ,time elapse =40215ms,result={'keyword': ['1#中国', '3#周口', '2#河南']}.
+2020-10-28 18:04:05,543 - __main__ - INFO - Program version-1.3.1, Content length = 980,uuid = ,indexName =  ,time elapse =19982ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:05,569 - __main__ - INFO - Program version-1.3.1, Content length = 1260,uuid = ,indexName =  ,time elapse =25154ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:05,573 - __main__ - INFO - Program version-1.3.1, Content length = 29,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:05,583 - __main__ - INFO - Program version-1.3.1, Content length = 883,uuid = ,indexName =  ,time elapse =10274ms,result={'keyword': ['2#湖北', '3#武汉']}.
+2020-10-28 18:04:05,593 - __main__ - INFO - Program version-1.3.1, Content length = 218,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国', '3#佛山', '2#广东', '4#顺德区']}.
+2020-10-28 18:04:05,613 - __main__ - INFO - Program version-1.3.1, Content length = 840,uuid = ,indexName =  ,time elapse =9950ms,result={'keyword': ['4#城区']}.
+2020-10-28 18:04:05,633 - __main__ - INFO - Program version-1.3.1, Content length = 727,uuid = ,indexName =  ,time elapse =10204ms,result={'keyword': ['3#武汉']}.
+2020-10-28 18:04:05,653 - __main__ - INFO - Program version-1.3.1, Content length = 1334,uuid = ,indexName =  ,time elapse =19770ms,result={'keyword': ['1#中国', '2#四川', '3#成都', '3#西城区', '2#北京']}.
+2020-10-28 18:04:05,678 - __main__ - INFO - Program version-1.3.1, Content length = 713,uuid = ,indexName =  ,time elapse =14852ms,result={'keyword': ['4#扶沟县']}.
+2020-10-28 18:04:05,693 - __main__ - INFO - Program version-1.3.1, Content length = 952,uuid = ,indexName =  ,time elapse =9807ms,result={'keyword': ['4#阜城县', '2#河北']}.
+2020-10-28 18:04:05,703 - __main__ - INFO - Program version-1.3.1, Content length = 399,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#扶沟县']}.
+2020-10-28 18:04:05,723 - __main__ - INFO - Program version-1.3.1, Content length = 913,uuid = ,indexName =  ,time elapse =10139ms,result={'keyword': []}.
+2020-10-28 18:04:05,753 - __main__ - INFO - Program version-1.3.1, Content length = 1087,uuid = ,indexName =  ,time elapse =19924ms,result={'keyword': ['1#中国', '2#福建', '2#浙江']}.
+2020-10-28 18:04:05,753 - __main__ - INFO - Program version-1.3.1, Content length = 94,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#河北', '4#武强县']}.
+2020-10-28 18:04:05,783 - __main__ - INFO - Program version-1.3.1, Content length = 1469,uuid = ,indexName =  ,time elapse =19932ms,result={'keyword': ['1#中国', '2#山东', '2#北京', '2#上海']}.
+2020-10-28 18:04:05,783 - __main__ - INFO - Program version-1.3.1, Content length = 5,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:05,803 - __main__ - INFO - Program version-1.3.1, Content length = 566,uuid = ,indexName =  ,time elapse =9822ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:05,823 - __main__ - INFO - Program version-1.3.1, Content length = 822,uuid = ,indexName =  ,time elapse =20011ms,result={'keyword': ['2#河北', '3#承德']}.
+2020-10-28 18:04:05,853 - __main__ - INFO - Program version-1.3.1, Content length = 1585,uuid = ,indexName =  ,time elapse =29923ms,result={'keyword': ['2#北京', '3#丰台区']}.
+2020-10-28 18:04:05,878 - __main__ - INFO - Program version-1.3.1, Content length = 994,uuid = ,indexName =  ,time elapse =14889ms,result={'keyword': ['3#海淀区', '3#大兴区', '3#西城区', '3#朝阳区', '2#北京', '2#黑龙江', '3#丰台区']}.
+2020-10-28 18:04:05,883 - __main__ - INFO - Program version-1.3.1, Content length = 106,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:05,893 - __main__ - INFO - Program version-1.3.1, Content length = 780,uuid = ,indexName =  ,time elapse =9906ms,result={'keyword': ['2#青海', '2#山西', '2#江苏', '4#惠山区', '3#海东', '4#河西', '3#无锡']}.
+2020-10-28 18:04:05,913 - __main__ - INFO - Program version-1.3.1, Content length = 792,uuid = ,indexName =  ,time elapse =10310ms,result={'keyword': ['3#广州']}.
+2020-10-28 18:04:05,934 - __main__ - INFO - Program version-1.3.1, Content length = 581,uuid = ,indexName =  ,time elapse =10245ms,result={'keyword': ['4#孟州市']}.
+2020-10-28 18:04:05,953 - __main__ - INFO - Program version-1.3.1, Content length = 1322,uuid = ,indexName =  ,time elapse =19679ms,result={'keyword': ['1#中国', '2#北京']}.
+2020-10-28 18:04:05,969 - __main__ - INFO - Program version-1.3.1, Content length = 484,uuid = ,indexName =  ,time elapse =5074ms,result={'keyword': []}.
+2020-10-28 18:04:06,003 - __main__ - INFO - Program version-1.3.1, Content length = 1871,uuid = ,indexName =  ,time elapse =29582ms,result={'keyword': ['4#中原区', '3#郑州']}.
+2020-10-28 18:04:06,003 - __main__ - INFO - Program version-1.3.1, Content length = 13,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:06,023 - __main__ - INFO - Program version-1.3.1, Content length = 891,uuid = ,indexName =  ,time elapse =20034ms,result={'keyword': ['1#中国', '2#北京']}.
+2020-10-28 18:04:06,033 - __main__ - INFO - Program version-1.3.1, Content length = 182,uuid = ,indexName =  ,time elapse =10134ms,result={'keyword': []}.
+2020-10-28 18:04:06,043 - __main__ - INFO - Program version-1.3.1, Content length = 291,uuid = ,indexName =  ,time elapse =9880ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:06,053 - __main__ - INFO - Program version-1.3.1, Content length = 853,uuid = ,indexName =  ,time elapse =9991ms,result={'keyword': []}.
+2020-10-28 18:04:06,078 - __main__ - INFO - Program version-1.3.1, Content length = 749,uuid = ,indexName =  ,time elapse =14718ms,result={'keyword': ['2#新疆', '2#北京']}.
+2020-10-28 18:04:06,083 - __main__ - INFO - Program version-1.3.1, Content length = 18,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#湖北']}.
+2020-10-28 18:04:06,093 - __main__ - INFO - Program version-1.3.1, Content length = 449,uuid = ,indexName =  ,time elapse =9946ms,result={'keyword': ['4#安次区']}.
+2020-10-28 18:04:06,123 - __main__ - INFO - Program version-1.3.1, Content length = 1881,uuid = ,indexName =  ,time elapse =30275ms,result={'keyword': ['2#河北', '2#北京']}.
+2020-10-28 18:04:06,158 - __main__ - INFO - Program version-1.3.1, Content length = 1187,uuid = ,indexName =  ,time elapse =34891ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:06,173 - __main__ - INFO - Program version-1.3.1, Content length = 348,uuid = ,indexName =  ,time elapse =9843ms,result={'keyword': ['4#城区']}.
+2020-10-28 18:04:06,193 - __main__ - INFO - Program version-1.3.1, Content length = 969,uuid = ,indexName =  ,time elapse =20037ms,result={'keyword': []}.
+2020-10-28 18:04:06,229 - __main__ - INFO - Program version-1.3.1, Content length = 1579,uuid = ,indexName =  ,time elapse =30539ms,result={'keyword': ['2#云南', '2#江西']}.
+2020-10-28 18:04:06,253 - __main__ - INFO - Program version-1.3.1, Content length = 1046,uuid = ,indexName =  ,time elapse =20216ms,result={'keyword': ['1#中国', '3#武汉', '2#湖北']}.
+2020-10-28 18:04:06,273 - __main__ - INFO - Program version-1.3.1, Content length = 420,uuid = ,indexName =  ,time elapse =10238ms,result={'keyword': []}.
+2020-10-28 18:04:06,303 - __main__ - INFO - Program version-1.3.1, Content length = 1748,uuid = ,indexName =  ,time elapse =29636ms,result={'keyword': ['1#中国', '2#云南']}.
+2020-10-28 18:04:06,323 - __main__ - INFO - Program version-1.3.1, Content length = 603,uuid = ,indexName =  ,time elapse =10178ms,result={'keyword': ['4#徽州区']}.
+2020-10-28 18:04:06,343 - __main__ - INFO - Program version-1.3.1, Content length = 1278,uuid = ,indexName =  ,time elapse =20038ms,result={'keyword': ['1#中国', '3#南宁', '2#广西']}.
+2020-10-28 18:04:06,354 - __main__ - INFO - Program version-1.3.1, Content length = 343,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#下陆区', '4#铁山区', '3#黄石']}.
+2020-10-28 18:04:06,403 - __main__ - INFO - Program version-1.3.1, Content length = 2912,uuid = ,indexName =  ,time elapse =39772ms,result={'keyword': ['1#中国', '2#甘肃', '2#安徽', '2#北京', '4#镇原县']}.
+2020-10-28 18:04:06,413 - __main__ - INFO - Program version-1.3.1, Content length = 309,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:06,443 - __main__ - INFO - Program version-1.3.1, Content length = 1413,uuid = ,indexName =  ,time elapse =20244ms,result={'keyword': ['4#富阳区', '4#桐庐县']}.
+2020-10-28 18:04:06,483 - __main__ - INFO - Program version-1.3.1, Content length = 2294,uuid = ,indexName =  ,time elapse =29647ms,result={'keyword': ['1#中国', '2#香港', '2#北京', '2#香港特别行政区']}.
+2020-10-28 18:04:06,514 - __main__ - INFO - Program version-1.3.1, Content length = 1789,uuid = ,indexName =  ,time elapse =30379ms,result={'keyword': ['1#中国', '2#宁夏']}.
+2020-10-28 18:04:06,533 - __main__ - INFO - Program version-1.3.1, Content length = 770,uuid = ,indexName =  ,time elapse =10153ms,result={'keyword': []}.
+2020-10-28 18:04:06,533 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:06,569 - __main__ - INFO - Program version-1.3.1, Content length = 1429,uuid = ,indexName =  ,time elapse =25839ms,result={'keyword': ['4#从化区', '4#天河区', '4#番禺区', '4#海珠区', '3#黄浦区', '4#白云区', '4#荔湾区', '4#花都区', '3#广州', '4#越秀区']}.
+2020-10-28 18:04:06,573 - __main__ - INFO - Program version-1.3.1, Content length = 401,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#西湖区', '3#杭州']}.
+2020-10-28 18:04:06,583 - __main__ - INFO - Program version-1.3.1, Content length = 378,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:06,598 - __main__ - INFO - Program version-1.3.1, Content length = 437,uuid = ,indexName =  ,time elapse =5038ms,result={'keyword': ['2#天津', '3#和平区']}.
+2020-10-28 18:04:06,603 - __main__ - INFO - Program version-1.3.1, Content length = 251,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:06,613 - __main__ - INFO - Program version-1.3.1, Content length = 211,uuid = ,indexName =  ,time elapse =10124ms,result={'keyword': ['2#江苏']}.
+2020-10-28 18:04:06,613 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:06,623 - __main__ - INFO - Program version-1.3.1, Content length = 326,uuid = ,indexName =  ,time elapse =10103ms,result={'keyword': ['3#铜仁', '4#城区', '2#贵州', '4#松桃苗族自治县']}.
+2020-10-28 18:04:06,623 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:06,669 - __main__ - INFO - Program version-1.3.1, Content length = 2279,uuid = ,indexName =  ,time elapse =35861ms,result={'keyword': ['1#中国', '3#贵阳', '2#贵州']}.
+2020-10-28 18:04:06,683 - __main__ - INFO - Program version-1.3.1, Content length = 826,uuid = ,indexName =  ,time elapse =10154ms,result={'keyword': ['2#北京', '4#南沙区']}.
+2020-10-28 18:04:06,693 - __main__ - INFO - Program version-1.3.1, Content length = 332,uuid = ,indexName =  ,time elapse =9915ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:06,693 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:06,703 - __main__ - INFO - Program version-1.3.1, Content length = 456,uuid = ,indexName =  ,time elapse =10185ms,result={'keyword': []}.
+2020-10-28 18:04:06,718 - __main__ - INFO - Program version-1.3.1, Content length = 548,uuid = ,indexName =  ,time elapse =4536ms,result={'keyword': ['1#中国', '2#云南', '4#蒙自市']}.
+2020-10-28 18:04:06,723 - __main__ - INFO - Program version-1.3.1, Content length = 188,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#黄石']}.
+2020-10-28 18:04:06,823 - __main__ - INFO - Program version-1.3.1, Content length = 5050,uuid = ,indexName =  ,time elapse =100049ms,result={'keyword': ['2#青海', '2#陕西', '2#新疆', '2#甘肃', '2#宁夏', '2#西藏']}.
+2020-10-28 18:04:06,823 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:06,853 - __main__ - INFO - Program version-1.3.1, Content length = 1361,uuid = ,indexName =  ,time elapse =29981ms,result={'keyword': ['4#金沙县']}.
+2020-10-28 18:04:06,863 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =10167ms,result={'keyword': []}.
+2020-10-28 18:04:06,869 - __main__ - INFO - Program version-1.3.1, Content length = 96,uuid = ,indexName =  ,time elapse =5900ms,result={'keyword': []}.
+2020-10-28 18:04:06,883 - __main__ - INFO - Program version-1.3.1, Content length = 947,uuid = ,indexName =  ,time elapse =10213ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:06,899 - __main__ - INFO - Program version-1.3.1, Content length = 277,uuid = ,indexName =  ,time elapse =5037ms,result={'keyword': []}.
+2020-10-28 18:04:06,903 - __main__ - INFO - Program version-1.3.1, Content length = 490,uuid = ,indexName =  ,time elapse =4588ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:06,913 - __main__ - INFO - Program version-1.3.1, Content length = 120,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:06,923 - __main__ - INFO - Program version-1.3.1, Content length = 403,uuid = ,indexName =  ,time elapse =9842ms,result={'keyword': ['4#泗县', '3#黄山']}.
+2020-10-28 18:04:06,933 - __main__ - INFO - Program version-1.3.1, Content length = 394,uuid = ,indexName =  ,time elapse =9909ms,result={'keyword': ['2#浙江']}.
+2020-10-28 18:04:06,943 - __main__ - INFO - Program version-1.3.1, Content length = 334,uuid = ,indexName =  ,time elapse =9982ms,result={'keyword': []}.
+2020-10-28 18:04:06,953 - __main__ - INFO - Program version-1.3.1, Content length = 627,uuid = ,indexName =  ,time elapse =10158ms,result={'keyword': ['2#西藏', '3#山南', '4#加查县']}.
+2020-10-28 18:04:07,023 - __main__ - INFO - Program version-1.3.1, Content length = 3546,uuid = ,indexName =  ,time elapse =59613ms,result={'keyword': ['4#黄埔区', '3#广州', '4#增城区']}.
+2020-10-28 18:04:07,023 - __main__ - INFO - Program version-1.3.1, Content length = 99,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:07,043 - __main__ - INFO - Program version-1.3.1, Content length = 909,uuid = ,indexName =  ,time elapse =10433ms,result={'keyword': []}.
+2020-10-28 18:04:07,083 - __main__ - INFO - Program version-1.3.1, Content length = 2183,uuid = ,indexName =  ,time elapse =29964ms,result={'keyword': ['4#歙县', '3#黄山']}.
+2020-10-28 18:04:07,103 - __main__ - INFO - Program version-1.3.1, Content length = 631,uuid = ,indexName =  ,time elapse =10185ms,result={'keyword': []}.
+2020-10-28 18:04:07,103 - __main__ - INFO - Program version-1.3.1, Content length = 224,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:07,113 - __main__ - INFO - Program version-1.3.1, Content length = 247,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#湖北']}.
+2020-10-28 18:04:07,123 - __main__ - INFO - Program version-1.3.1, Content length = 11,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:07,133 - __main__ - INFO - Program version-1.3.1, Content length = 642,uuid = ,indexName =  ,time elapse =10057ms,result={'keyword': ['3#石家庄']}.
+2020-10-28 18:04:07,164 - __main__ - INFO - Program version-1.3.1, Content length = 1549,uuid = ,indexName =  ,time elapse =30335ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:07,173 - __main__ - INFO - Program version-1.3.1, Content length = 428,uuid = ,indexName =  ,time elapse =4104ms,result={'keyword': ['1#中国', '2#北京']}.
+2020-10-28 18:04:07,178 - __main__ - INFO - Program version-1.3.1, Content length = 164,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#毕节', '2#贵州']}.
+2020-10-28 18:04:07,193 - __main__ - INFO - Program version-1.3.1, Content length = 686,uuid = ,indexName =  ,time elapse =10006ms,result={'keyword': ['2#云南']}.
+2020-10-28 18:04:07,204 - __main__ - INFO - Program version-1.3.1, Content length = 216,uuid = ,indexName =  ,time elapse =10153ms,result={'keyword': []}.
+2020-10-28 18:04:07,213 - __main__ - INFO - Program version-1.3.1, Content length = 221,uuid = ,indexName =  ,time elapse =9904ms,result={'keyword': []}.
+2020-10-28 18:04:07,228 - __main__ - INFO - Program version-1.3.1, Content length = 615,uuid = ,indexName =  ,time elapse =14542ms,result={'keyword': []}.
+2020-10-28 18:04:07,238 - __main__ - INFO - Program version-1.3.1, Content length = 474,uuid = ,indexName =  ,time elapse =6103ms,result={'keyword': ['4#城区']}.
+2020-10-28 18:04:07,253 - __main__ - INFO - Program version-1.3.1, Content length = 820,uuid = ,indexName =  ,time elapse =10047ms,result={'keyword': ['2#四川', '2#吉林']}.
+2020-10-28 18:04:07,268 - __main__ - INFO - Program version-1.3.1, Content length = 248,uuid = ,indexName =  ,time elapse =5037ms,result={'keyword': ['2#天津']}.
+2020-10-28 18:04:07,273 - __main__ - INFO - Program version-1.3.1, Content length = 100,uuid = ,indexName =  ,time elapse =4114ms,result={'keyword': ['4#铁山区']}.
+2020-10-28 18:04:07,294 - __main__ - INFO - Program version-1.3.1, Content length = 1085,uuid = ,indexName =  ,time elapse =20175ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:07,323 - __main__ - INFO - Program version-1.3.1, Content length = 2085,uuid = ,indexName =  ,time elapse =29745ms,result={'keyword': []}.
+2020-10-28 18:04:07,344 - __main__ - INFO - Program version-1.3.1, Content length = 582,uuid = ,indexName =  ,time elapse =10390ms,result={'keyword': ['4#矿区', '2#江苏']}.
+2020-10-28 18:04:07,353 - __main__ - INFO - Program version-1.3.1, Content length = 372,uuid = ,indexName =  ,time elapse =4603ms,result={'keyword': ['4#博爱县']}.
+2020-10-28 18:04:07,363 - __main__ - INFO - Program version-1.3.1, Content length = 122,uuid = ,indexName =  ,time elapse =10060ms,result={'keyword': ['4#黄山区']}.
+2020-10-28 18:04:07,373 - __main__ - INFO - Program version-1.3.1, Content length = 809,uuid = ,indexName =  ,time elapse =10143ms,result={'keyword': ['4#梨树县']}.
+2020-10-28 18:04:07,383 - __main__ - INFO - Program version-1.3.1, Content length = 21,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:07,403 - __main__ - INFO - Program version-1.3.1, Content length = 1168,uuid = ,indexName =  ,time elapse =19979ms,result={'keyword': ['3#毕节', '2#贵州']}.
+2020-10-28 18:04:07,403 - __main__ - INFO - Program version-1.3.1, Content length = 91,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:07,413 - __main__ - INFO - Program version-1.3.1, Content length = 6,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:07,433 - __main__ - INFO - Program version-1.3.1, Content length = 983,uuid = ,indexName =  ,time elapse =19924ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:07,448 - __main__ - INFO - Program version-1.3.1, Content length = 747,uuid = ,indexName =  ,time elapse =14934ms,result={'keyword': ['3#怀柔区', '2#北京']}.
+2020-10-28 18:04:07,458 - __main__ - INFO - Program version-1.3.1, Content length = 517,uuid = ,indexName =  ,time elapse =5034ms,result={'keyword': []}.
+2020-10-28 18:04:07,463 - __main__ - INFO - Program version-1.3.1, Content length = 172,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#南京', '2#河北']}.
+2020-10-28 18:04:07,493 - __main__ - INFO - Program version-1.3.1, Content length = 1923,uuid = ,indexName =  ,time elapse =24100ms,result={'keyword': ['2#山东']}.
+2020-10-28 18:04:07,503 - __main__ - INFO - Program version-1.3.1, Content length = 8,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:07,513 - __main__ - INFO - Program version-1.3.1, Content length = 828,uuid = ,indexName =  ,time elapse =9796ms,result={'keyword': ['2#浙江']}.
+2020-10-28 18:04:07,523 - __main__ - INFO - Program version-1.3.1, Content length = 390,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:07,603 - __main__ - INFO - Program version-1.3.1, Content length = 4174,uuid = ,indexName =  ,time elapse =70068ms,result={'keyword': ['2#山东', '4#斗门区', '4#金湾区', '4#香洲区', '4#城区']}.
+2020-10-28 18:04:07,613 - __main__ - INFO - Program version-1.3.1, Content length = 696,uuid = ,indexName =  ,time elapse =10161ms,result={'keyword': ['3#珠海']}.
+2020-10-28 18:04:07,643 - __main__ - INFO - Program version-1.3.1, Content length = 1523,uuid = ,indexName =  ,time elapse =19926ms,result={'keyword': ['2#上海']}.
+2020-10-28 18:04:07,653 - __main__ - INFO - Program version-1.3.1, Content length = 359,uuid = ,indexName =  ,time elapse =9858ms,result={'keyword': ['1#中国', '4#七星关区', '4#大方县', '4#纳雍县', '4#金沙县', '4#赫章县', '4#黔西县', '3#毕节']}.
+2020-10-28 18:04:07,668 - __main__ - INFO - Program version-1.3.1, Content length = 426,uuid = ,indexName =  ,time elapse =14776ms,result={'keyword': ['4#金湾区', '4#香洲区', '4#斗门区']}.
+2020-10-28 18:04:07,673 - __main__ - INFO - Program version-1.3.1, Content length = 467,uuid = ,indexName =  ,time elapse =3570ms,result={'keyword': ['4#沁阳市', '2#河南']}.
+2020-10-28 18:04:07,683 - __main__ - INFO - Program version-1.3.1, Content length = 276,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#山东', '3#济南']}.
+2020-10-28 18:04:07,744 - __main__ - INFO - Program version-1.3.1, Content length = 2952,uuid = ,indexName =  ,time elapse =50256ms,result={'keyword': ['4#金川区', '2#甘肃', '2#新疆', '3#金昌', '4#永昌县', '4#城区']}.
+2020-10-28 18:04:07,744 - __main__ - INFO - Program version-1.3.1, Content length = 9,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:07,753 - __main__ - INFO - Program version-1.3.1, Content length = 359,uuid = ,indexName =  ,time elapse =9518ms,result={'keyword': ['2#西藏']}.
+2020-10-28 18:04:07,773 - __main__ - INFO - Program version-1.3.1, Content length = 816,uuid = ,indexName =  ,time elapse =20391ms,result={'keyword': []}.
+2020-10-28 18:04:07,773 - __main__ - INFO - Program version-1.3.1, Content length = 309,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:07,783 - __main__ - INFO - Program version-1.3.1, Content length = 193,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:07,783 - __main__ - INFO - Program version-1.3.1, Content length = 38,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:07,813 - __main__ - INFO - Program version-1.3.1, Content length = 1030,uuid = ,indexName =  ,time elapse =20182ms,result={'keyword': ['1#中国', '2#香港', '2#北京', '2#新疆']}.
+2020-10-28 18:04:07,838 - __main__ - INFO - Program version-1.3.1, Content length = 1312,uuid = ,indexName =  ,time elapse =25003ms,result={'keyword': ['1#中国', '2#北京']}.
+2020-10-28 18:04:07,863 - __main__ - INFO - Program version-1.3.1, Content length = 1289,uuid = ,indexName =  ,time elapse =19725ms,result={'keyword': ['1#中国', '2#北京']}.
+2020-10-28 18:04:07,873 - __main__ - INFO - Program version-1.3.1, Content length = 494,uuid = ,indexName =  ,time elapse =10209ms,result={'keyword': ['4#蒙自市']}.
+2020-10-28 18:04:07,873 - __main__ - INFO - Program version-1.3.1, Content length = 106,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:07,903 - __main__ - INFO - Program version-1.3.1, Content length = 1745,uuid = ,indexName =  ,time elapse =19783ms,result={'keyword': ['1#中国', '2#天津', '3#滨海新区']}.
+2020-10-28 18:04:07,923 - __main__ - INFO - Program version-1.3.1, Content length = 773,uuid = ,indexName =  ,time elapse =10032ms,result={'keyword': ['3#三亚']}.
+2020-10-28 18:04:07,923 - __main__ - INFO - Program version-1.3.1, Content length = 6,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:07,933 - __main__ - INFO - Program version-1.3.1, Content length = 425,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#湖北', '3#荆州']}.
+2020-10-28 18:04:08,013 - __main__ - INFO - Program version-1.3.1, Content length = 6540,uuid = ,indexName =  ,time elapse =69939ms,result={'keyword': ['4#临淄区', '3#德州', '4#泗水县', '4#环翠区', '4#东昌府区', '4#肥城市', '1#中国', '4#任城区', '3#济宁', '4#莘县', '3#聊城', '3#威海', '3#枣庄', '3#临沂', '4#曲阜市', '4#金乡县', '4#邹城市', '3#菏泽', '2#山东', '4#嘉祥县', '4#兖州区', '4#台儿庄区', '4#定陶区']}.
+2020-10-28 18:04:08,023 - __main__ - INFO - Program version-1.3.1, Content length = 433,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:08,033 - __main__ - INFO - Program version-1.3.1, Content length = 516,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#天涯区', '2#海南']}.
+2020-10-28 18:04:08,043 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:08,053 - __main__ - INFO - Program version-1.3.1, Content length = 495,uuid = ,indexName =  ,time elapse =10129ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:08,063 - __main__ - INFO - Program version-1.3.1, Content length = 293,uuid = ,indexName =  ,time elapse =9937ms,result={'keyword': ['4#华池县', '2#甘肃']}.
+2020-10-28 18:04:08,070 - __main__ - INFO - Program version-1.3.1, Content length = 143,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#西藏', '2#上海', '4#安居区']}.
+2020-10-28 18:04:08,074 - __main__ - INFO - Program version-1.3.1, Content length = 60,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:08,083 - __main__ - INFO - Program version-1.3.1, Content length = 280,uuid = ,indexName =  ,time elapse =9713ms,result={'keyword': []}.
+2020-10-28 18:04:08,093 - __main__ - INFO - Program version-1.3.1, Content length = 431,uuid = ,indexName =  ,time elapse =9864ms,result={'keyword': []}.
+2020-10-28 18:04:08,103 - __main__ - INFO - Program version-1.3.1, Content length = 376,uuid = ,indexName =  ,time elapse =10011ms,result={'keyword': []}.
+2020-10-28 18:04:08,103 - __main__ - INFO - Program version-1.3.1, Content length = 123,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#安福县']}.
+2020-10-28 18:04:08,118 - __main__ - INFO - Program version-1.3.1, Content length = 202,uuid = ,indexName =  ,time elapse =5041ms,result={'keyword': []}.
+2020-10-28 18:04:08,128 - __main__ - INFO - Program version-1.3.1, Content length = 411,uuid = ,indexName =  ,time elapse =10119ms,result={'keyword': []}.
+2020-10-28 18:04:08,143 - __main__ - INFO - Program version-1.3.1, Content length = 898,uuid = ,indexName =  ,time elapse =9747ms,result={'keyword': ['3#抚州']}.
+2020-10-28 18:04:08,163 - __main__ - INFO - Program version-1.3.1, Content length = 611,uuid = ,indexName =  ,time elapse =9779ms,result={'keyword': ['1#中国', '4#莒县', '4#岚山区', '4#五莲县']}.
+2020-10-28 18:04:08,170 - __main__ - INFO - Program version-1.3.1, Content length = 117,uuid = ,indexName =  ,time elapse =6993ms,result={'keyword': []}.
+2020-10-28 18:04:08,183 - __main__ - INFO - Program version-1.3.1, Content length = 712,uuid = ,indexName =  ,time elapse =9971ms,result={'keyword': ['4#芝罘区', '3#烟台']}.
+2020-10-28 18:04:08,203 - __main__ - INFO - Program version-1.3.1, Content length = 1143,uuid = ,indexName =  ,time elapse =20200ms,result={'keyword': []}.
+2020-10-28 18:04:08,213 - __main__ - INFO - Program version-1.3.1, Content length = 290,uuid = ,indexName =  ,time elapse =9793ms,result={'keyword': []}.
+2020-10-28 18:04:08,236 - __main__ - INFO - Program version-1.3.1, Content length = 871,uuid = ,indexName =  ,time elapse =22895ms,result={'keyword': ['4#牟平区', '4#芝罘区', '3#烟台']}.
+2020-10-28 18:04:08,253 - __main__ - INFO - Program version-1.3.1, Content length = 843,uuid = ,indexName =  ,time elapse =13922ms,result={'keyword': ['4#泰兴市']}.
+2020-10-28 18:04:08,273 - __main__ - INFO - Program version-1.3.1, Content length = 883,uuid = ,indexName =  ,time elapse =20320ms,result={'keyword': ['1#中国', '3#南京']}.
+2020-10-28 18:04:08,273 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:08,293 - __main__ - INFO - Program version-1.3.1, Content length = 672,uuid = ,indexName =  ,time elapse =19726ms,result={'keyword': ['2#江苏']}.
+2020-10-28 18:04:08,333 - __main__ - INFO - Program version-1.3.1, Content length = 2292,uuid = ,indexName =  ,time elapse =39960ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:08,333 - __main__ - INFO - Program version-1.3.1, Content length = 111,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#南昌县']}.
+2020-10-28 18:04:08,343 - __main__ - INFO - Program version-1.3.1, Content length = 370,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:08,364 - __main__ - INFO - Program version-1.3.1, Content length = 1003,uuid = ,indexName =  ,time elapse =10195ms,result={'keyword': ['3#南昌', '4#湾里区', '4#城区']}.
+2020-10-28 18:04:08,373 - __main__ - INFO - Program version-1.3.1, Content length = 195,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#重庆']}.
+2020-10-28 18:04:08,373 - __main__ - INFO - Program version-1.3.1, Content length = 34,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#浙江']}.
+2020-10-28 18:04:08,393 - __main__ - INFO - Program version-1.3.1, Content length = 1006,uuid = ,indexName =  ,time elapse =10349ms,result={'keyword': ['2#河北', '2#北京']}.
+2020-10-28 18:04:08,463 - __main__ - INFO - Program version-1.3.1, Content length = 3601,uuid = ,indexName =  ,time elapse =59741ms,result={'keyword': ['1#中国', '2#江西', '4#永丰县', '4#南城县']}.
+2020-10-28 18:04:08,473 - __main__ - INFO - Program version-1.3.1, Content length = 6,uuid = ,indexName =  ,time elapse =2602ms,result={'keyword': []}.
+2020-10-28 18:04:08,493 - __main__ - INFO - Program version-1.3.1, Content length = 1112,uuid = ,indexName =  ,time elapse =20111ms,result={'keyword': ['3#连云港']}.
+2020-10-28 18:04:08,503 - __main__ - INFO - Program version-1.3.1, Content length = 356,uuid = ,indexName =  ,time elapse =9797ms,result={'keyword': ['4#东昌府区']}.
+2020-10-28 18:04:08,533 - __main__ - INFO - Program version-1.3.1, Content length = 1872,uuid = ,indexName =  ,time elapse =29980ms,result={'keyword': ['1#中国', '2#山东', '3#聊城', '4#阳谷县']}.
+2020-10-28 18:04:08,583 - __main__ - INFO - Program version-1.3.1, Content length = 2217,uuid = ,indexName =  ,time elapse =49900ms,result={'keyword': ['2#上海', '3#绍兴']}.
+2020-10-28 18:04:08,583 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:08,593 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:08,593 - __main__ - INFO - Program version-1.3.1, Content length = 315,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#高唐县']}.
+2020-10-28 18:04:08,613 - __main__ - INFO - Program version-1.3.1, Content length = 664,uuid = ,indexName =  ,time elapse =9654ms,result={'keyword': ['1#中国', '4#洋县', '2#河南', '2#陕西', '2#浙江']}.
+2020-10-28 18:04:08,623 - __main__ - INFO - Program version-1.3.1, Content length = 551,uuid = ,indexName =  ,time elapse =5071ms,result={'keyword': []}.
+2020-10-28 18:04:08,648 - __main__ - INFO - Program version-1.3.1, Content length = 1282,uuid = ,indexName =  ,time elapse =14796ms,result={'keyword': ['3#河池', '3#崇左', '3#百色', '2#广西']}.
+2020-10-28 18:04:08,671 - __main__ - INFO - Program version-1.3.1, Content length = 937,uuid = ,indexName =  ,time elapse =17682ms,result={'keyword': []}.
+2020-10-28 18:04:08,683 - __main__ - INFO - Program version-1.3.1, Content length = 662,uuid = ,indexName =  ,time elapse =9883ms,result={'keyword': []}.
+2020-10-28 18:04:08,703 - __main__ - INFO - Program version-1.3.1, Content length = 805,uuid = ,indexName =  ,time elapse =19910ms,result={'keyword': []}.
+2020-10-28 18:04:08,773 - __main__ - INFO - Program version-1.3.1, Content length = 3821,uuid = ,indexName =  ,time elapse =70093ms,result={'keyword': ['3#杭州', '2#浙江', '4#萧山区']}.
+2020-10-28 18:04:08,773 - __main__ - INFO - Program version-1.3.1, Content length = 209,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#堆龙德庆区', '3#门头沟区', '2#内蒙古', '4#武川县', '2#北京', '2#西藏']}.
+2020-10-28 18:04:08,783 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:08,798 - __main__ - INFO - Program version-1.3.1, Content length = 787,uuid = ,indexName =  ,time elapse =14976ms,result={'keyword': []}.
+2020-10-28 18:04:08,803 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:08,803 - __main__ - INFO - Program version-1.3.1, Content length = 38,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:08,813 - __main__ - INFO - Program version-1.3.1, Content length = 98,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:08,823 - __main__ - INFO - Program version-1.3.1, Content length = 377,uuid = ,indexName =  ,time elapse =10002ms,result={'keyword': ['3#杭州', '4#滨江区']}.
+2020-10-28 18:04:08,833 - __main__ - INFO - Program version-1.3.1, Content length = 487,uuid = ,indexName =  ,time elapse =10249ms,result={'keyword': ['4#安义县']}.
+2020-10-28 18:04:08,853 - __main__ - INFO - Program version-1.3.1, Content length = 821,uuid = ,indexName =  ,time elapse =19785ms,result={'keyword': []}.
+2020-10-28 18:04:08,853 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:08,863 - __main__ - INFO - Program version-1.3.1, Content length = 124,uuid = ,indexName =  ,time elapse =9892ms,result={'keyword': []}.
+2020-10-28 18:04:08,883 - __main__ - INFO - Program version-1.3.1, Content length = 1240,uuid = ,indexName =  ,time elapse =20013ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:08,893 - __main__ - INFO - Program version-1.3.1, Content length = 371,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:08,903 - __main__ - INFO - Program version-1.3.1, Content length = 241,uuid = ,indexName =  ,time elapse =10191ms,result={'keyword': ['4#金川区', '2#甘肃', '3#金昌']}.
+2020-10-28 18:04:08,933 - __main__ - INFO - Program version-1.3.1, Content length = 1410,uuid = ,indexName =  ,time elapse =29926ms,result={'keyword': []}.
+2020-10-28 18:04:08,973 - __main__ - INFO - Program version-1.3.1, Content length = 2116,uuid = ,indexName =  ,time elapse =40108ms,result={'keyword': ['3#鹰潭', '4#城区']}.
+2020-10-28 18:04:09,004 - __main__ - INFO - Program version-1.3.1, Content length = 1611,uuid = ,indexName =  ,time elapse =20024ms,result={'keyword': ['3#南昌', '2#江西', '4#青云谱区']}.
+2020-10-28 18:04:09,013 - __main__ - INFO - Program version-1.3.1, Content length = 531,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:09,073 - __main__ - INFO - Program version-1.3.1, Content length = 2751,uuid = ,indexName =  ,time elapse =50142ms,result={'keyword': ['1#中国', '4#南海区', '3#佛山', '4#高明区', '2#广东']}.
+2020-10-28 18:04:09,093 - __main__ - INFO - Program version-1.3.1, Content length = 1010,uuid = ,indexName =  ,time elapse =19732ms,result={'keyword': []}.
+2020-10-28 18:04:09,103 - __main__ - INFO - Program version-1.3.1, Content length = 561,uuid = ,indexName =  ,time elapse =10311ms,result={'keyword': ['4#诸暨市', '3#绍兴']}.
+2020-10-28 18:04:09,123 - __main__ - INFO - Program version-1.3.1, Content length = 712,uuid = ,indexName =  ,time elapse =10081ms,result={'keyword': ['2#山东']}.
+2020-10-28 18:04:09,133 - __main__ - INFO - Program version-1.3.1, Content length = 336,uuid = ,indexName =  ,time elapse =9863ms,result={'keyword': ['2#甘肃']}.
+2020-10-28 18:04:09,153 - __main__ - INFO - Program version-1.3.1, Content length = 1028,uuid = ,indexName =  ,time elapse =20256ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:09,173 - __main__ - INFO - Program version-1.3.1, Content length = 1169,uuid = ,indexName =  ,time elapse =19911ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:09,193 - __main__ - INFO - Program version-1.3.1, Content length = 612,uuid = ,indexName =  ,time elapse =19924ms,result={'keyword': []}.
+2020-10-28 18:04:09,235 - __main__ - INFO - Program version-1.3.1, Content length = 2070,uuid = ,indexName =  ,time elapse =41327ms,result={'keyword': ['1#中国', '2#甘肃', '2#四川', '4#河西']}.
+2020-10-28 18:04:09,273 - __main__ - INFO - Program version-1.3.1, Content length = 1668,uuid = ,indexName =  ,time elapse =34850ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:09,293 - __main__ - INFO - Program version-1.3.1, Content length = 1062,uuid = ,indexName =  ,time elapse =19725ms,result={'keyword': ['3#盐城']}.
+2020-10-28 18:04:09,303 - __main__ - INFO - Program version-1.3.1, Content length = 720,uuid = ,indexName =  ,time elapse =10115ms,result={'keyword': ['1#中国', '3#青岛', '2#香港']}.
+2020-10-28 18:04:09,323 - __main__ - INFO - Program version-1.3.1, Content length = 804,uuid = ,indexName =  ,time elapse =9992ms,result={'keyword': ['3#毕节', '2#贵州']}.
+2020-10-28 18:04:09,333 - __main__ - INFO - Program version-1.3.1, Content length = 476,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:09,343 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:09,353 - __main__ - INFO - Program version-1.3.1, Content length = 747,uuid = ,indexName =  ,time elapse =10266ms,result={'keyword': ['3#杭州']}.
+2020-10-28 18:04:09,363 - __main__ - INFO - Program version-1.3.1, Content length = 26,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:09,374 - __main__ - INFO - Program version-1.3.1, Content length = 425,uuid = ,indexName =  ,time elapse =10381ms,result={'keyword': ['2#福建', '2#北京']}.
+2020-10-28 18:04:09,413 - __main__ - INFO - Program version-1.3.1, Content length = 2262,uuid = ,indexName =  ,time elapse =39822ms,result={'keyword': ['1#中国', '4#阳高县', '2#山西', '3#吕梁', '4#襄汾县', '3#阳泉', '4#郊区']}.
+2020-10-28 18:04:09,423 - __main__ - INFO - Program version-1.3.1, Content length = 267,uuid = ,indexName =  ,time elapse =9665ms,result={'keyword': []}.
+2020-10-28 18:04:09,443 - __main__ - INFO - Program version-1.3.1, Content length = 1092,uuid = ,indexName =  ,time elapse =20221ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:09,453 - __main__ - INFO - Program version-1.3.1, Content length = 274,uuid = ,indexName =  ,time elapse =10107ms,result={'keyword': []}.
+2020-10-28 18:04:09,503 - __main__ - INFO - Program version-1.3.1, Content length = 3948,uuid = ,indexName =  ,time elapse =49717ms,result={'keyword': ['1#中国', '4#达拉特旗', '3#鄂尔多斯', '4#乌审旗', '4#准格尔旗', '2#内蒙古', '4#伊金霍洛旗', '4#鄂托克前旗', '4#鄂托克旗', '4#杭锦旗', '4#东胜区']}.
+2020-10-28 18:04:09,533 - __main__ - INFO - Program version-1.3.1, Content length = 1246,uuid = ,indexName =  ,time elapse =20252ms,result={'keyword': ['4#紫云苗族布依族自治县', '2#贵州']}.
+2020-10-28 18:04:09,543 - __main__ - INFO - Program version-1.3.1, Content length = 619,uuid = ,indexName =  ,time elapse =10016ms,result={'keyword': []}.
+2020-10-28 18:04:09,543 - __main__ - INFO - Program version-1.3.1, Content length = 8,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:09,553 - __main__ - INFO - Program version-1.3.1, Content length = 47,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:09,573 - __main__ - INFO - Program version-1.3.1, Content length = 802,uuid = ,indexName =  ,time elapse =20229ms,result={'keyword': ['4#罗湖区', '3#深圳', '4#城区']}.
+2020-10-28 18:04:09,573 - __main__ - INFO - Program version-1.3.1, Content length = 179,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#嵊州市', '2#青海', '3#玉树藏族自治州']}.
+2020-10-28 18:04:09,589 - __main__ - INFO - Program version-1.3.1, Content length = 456,uuid = ,indexName =  ,time elapse =5034ms,result={'keyword': ['1#中国', '3#南京', '2#江苏']}.
+2020-10-28 18:04:09,593 - __main__ - INFO - Program version-1.3.1, Content length = 454,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:09,613 - __main__ - INFO - Program version-1.3.1, Content length = 548,uuid = ,indexName =  ,time elapse =10116ms,result={'keyword': ['4#海珠区', '3#广州']}.
+2020-10-28 18:04:09,633 - __main__ - INFO - Program version-1.3.1, Content length = 1168,uuid = ,indexName =  ,time elapse =19770ms,result={'keyword': ['4#高坪区']}.
+2020-10-28 18:04:09,633 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:09,643 - __main__ - INFO - Program version-1.3.1, Content length = 83,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#太仓市']}.
+2020-10-28 18:04:09,643 - __main__ - INFO - Program version-1.3.1, Content length = 16,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#瑞安市']}.
+2020-10-28 18:04:09,693 - __main__ - INFO - Program version-1.3.1, Content length = 2441,uuid = ,indexName =  ,time elapse =40036ms,result={'keyword': ['2#贵州']}.
+2020-10-28 18:04:09,713 - __main__ - INFO - Program version-1.3.1, Content length = 637,uuid = ,indexName =  ,time elapse =19862ms,result={'keyword': ['3#毕节', '4#荔波县', '2#贵州']}.
+2020-10-28 18:04:09,763 - __main__ - INFO - Program version-1.3.1, Content length = 2807,uuid = ,indexName =  ,time elapse =49940ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:09,772 - __main__ - INFO - Program version-1.3.1, Content length = 191,uuid = ,indexName =  ,time elapse =8715ms,result={'keyword': ['3#六盘水']}.
+2020-10-28 18:04:09,773 - __main__ - INFO - Program version-1.3.1, Content length = 20,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:09,803 - __main__ - INFO - Program version-1.3.1, Content length = 1553,uuid = ,indexName =  ,time elapse =29809ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:09,883 - __main__ - INFO - Program version-1.3.1, Content length = 4337,uuid = ,indexName =  ,time elapse =69882ms,result={'keyword': ['1#中国', '2#福建', '2#北京']}.
+2020-10-28 18:04:09,883 - __main__ - INFO - Program version-1.3.1, Content length = 35,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:09,893 - __main__ - INFO - Program version-1.3.1, Content length = 29,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:09,903 - __main__ - INFO - Program version-1.3.1, Content length = 460,uuid = ,indexName =  ,time elapse =9898ms,result={'keyword': ['3#达州', '4#城区', '4#达川区']}.
+2020-10-28 18:04:09,913 - __main__ - INFO - Program version-1.3.1, Content length = 277,uuid = ,indexName =  ,time elapse =10182ms,result={'keyword': []}.
+2020-10-28 18:04:09,928 - __main__ - INFO - Program version-1.3.1, Content length = 774,uuid = ,indexName =  ,time elapse =14696ms,result={'keyword': []}.
+2020-10-28 18:04:09,938 - __main__ - INFO - Program version-1.3.1, Content length = 382,uuid = ,indexName =  ,time elapse =5005ms,result={'keyword': ['3#毕节']}.
+2020-10-28 18:04:09,948 - __main__ - INFO - Program version-1.3.1, Content length = 506,uuid = ,indexName =  ,time elapse =5038ms,result={'keyword': []}.
+2020-10-28 18:04:09,963 - __main__ - INFO - Program version-1.3.1, Content length = 516,uuid = ,indexName =  ,time elapse =9828ms,result={'keyword': ['2#陕西', '2#辽宁', '2#河北', '2#上海', '2#广东', '2#北京', '2#天津', '3#珠海']}.
+2020-10-28 18:04:09,974 - __main__ - INFO - Program version-1.3.1, Content length = 936,uuid = ,indexName =  ,time elapse =10435ms,result={'keyword': []}.
+2020-10-28 18:04:09,993 - __main__ - INFO - Program version-1.3.1, Content length = 740,uuid = ,indexName =  ,time elapse =10054ms,result={'keyword': ['3#安顺']}.
+2020-10-28 18:04:10,004 - __main__ - INFO - Program version-1.3.1, Content length = 272,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#思南县', '4#城区']}.
+2020-10-28 18:04:10,013 - __main__ - INFO - Program version-1.3.1, Content length = 578,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#沭阳县']}.
+2020-10-28 18:04:10,033 - __main__ - INFO - Program version-1.3.1, Content length = 929,uuid = ,indexName =  ,time elapse =10005ms,result={'keyword': ['2#山西']}.
+2020-10-28 18:04:10,043 - __main__ - INFO - Program version-1.3.1, Content length = 419,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#淮安']}.
+2020-10-28 18:04:10,054 - __main__ - INFO - Program version-1.3.1, Content length = 13,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:10,073 - __main__ - INFO - Program version-1.3.1, Content length = 828,uuid = ,indexName =  ,time elapse =18403ms,result={'keyword': ['4#水城县', '2#贵州']}.
+2020-10-28 18:04:10,083 - __main__ - INFO - Program version-1.3.1, Content length = 484,uuid = ,indexName =  ,time elapse =9584ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:10,083 - __main__ - INFO - Program version-1.3.1, Content length = 177,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:10,093 - __main__ - INFO - Program version-1.3.1, Content length = 462,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#新华区']}.
+2020-10-28 18:04:10,113 - __main__ - INFO - Program version-1.3.1, Content length = 653,uuid = ,indexName =  ,time elapse =10133ms,result={'keyword': []}.
+2020-10-28 18:04:10,124 - __main__ - INFO - Program version-1.3.1, Content length = 163,uuid = ,indexName =  ,time elapse =10167ms,result={'keyword': []}.
+2020-10-28 18:04:10,133 - __main__ - INFO - Program version-1.3.1, Content length = 575,uuid = ,indexName =  ,time elapse =9665ms,result={'keyword': ['4#泗阳县']}.
+2020-10-28 18:04:10,153 - __main__ - INFO - Program version-1.3.1, Content length = 1214,uuid = ,indexName =  ,time elapse =15240ms,result={'keyword': ['3#苏州', '1#中国', '4#吴江区', '4#城区']}.
+2020-10-28 18:04:10,164 - __main__ - INFO - Program version-1.3.1, Content length = 419,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:10,173 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:10,193 - __main__ - INFO - Program version-1.3.1, Content length = 949,uuid = ,indexName =  ,time elapse =20284ms,result={'keyword': ['4#项城市', '4#城区']}.
+2020-10-28 18:04:10,225 - __main__ - INFO - Program version-1.3.1, Content length = 1730,uuid = ,indexName =  ,time elapse =31142ms,result={'keyword': ['4#理县', '2#四川', '4#大英县', '4#射洪县', '3#遂宁']}.
+2020-10-28 18:04:10,243 - __main__ - INFO - Program version-1.3.1, Content length = 1111,uuid = ,indexName =  ,time elapse =13767ms,result={'keyword': ['1#中国', '4#剑河县', '2#贵州']}.
+2020-10-28 18:04:10,253 - __main__ - INFO - Program version-1.3.1, Content length = 344,uuid = ,indexName =  ,time elapse =9786ms,result={'keyword': []}.
+2020-10-28 18:04:10,263 - __main__ - INFO - Program version-1.3.1, Content length = 254,uuid = ,indexName =  ,time elapse =10312ms,result={'keyword': ['4#市北区']}.
+2020-10-28 18:04:10,344 - __main__ - INFO - Program version-1.3.1, Content length = 5823,uuid = ,indexName =  ,time elapse =80028ms,result={'keyword': ['1#中国', '3#滨海新区', '2#上海', '4#城区', '2#天津']}.
+2020-10-28 18:04:10,363 - __main__ - INFO - Program version-1.3.1, Content length = 529,uuid = ,indexName =  ,time elapse =10179ms,result={'keyword': []}.
+2020-10-28 18:04:10,374 - __main__ - INFO - Program version-1.3.1, Content length = 427,uuid = ,indexName =  ,time elapse =10048ms,result={'keyword': []}.
+2020-10-28 18:04:10,374 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:10,403 - __main__ - INFO - Program version-1.3.1, Content length = 1185,uuid = ,indexName =  ,time elapse =29633ms,result={'keyword': ['2#香港']}.
+2020-10-28 18:04:10,413 - __main__ - INFO - Program version-1.3.1, Content length = 933,uuid = ,indexName =  ,time elapse =10221ms,result={'keyword': []}.
+2020-10-28 18:04:10,424 - __main__ - INFO - Program version-1.3.1, Content length = 314,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#广东']}.
+2020-10-28 18:04:10,449 - __main__ - INFO - Program version-1.3.1, Content length = 785,uuid = ,indexName =  ,time elapse =15422ms,result={'keyword': ['4#修文县', '4#开阳县']}.
+2020-10-28 18:04:10,453 - __main__ - INFO - Program version-1.3.1, Content length = 166,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#通辽']}.
+2020-10-28 18:04:10,473 - __main__ - INFO - Program version-1.3.1, Content length = 805,uuid = ,indexName =  ,time elapse =20309ms,result={'keyword': ['4#碧江区', '4#昆山市', '2#江苏']}.
+2020-10-28 18:04:10,473 - __main__ - INFO - Program version-1.3.1, Content length = 27,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:10,523 - __main__ - INFO - Program version-1.3.1, Content length = 2508,uuid = ,indexName =  ,time elapse =39784ms,result={'keyword': ['4#天台县', '2#浙江', '3#台州']}.
+2020-10-28 18:04:10,523 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:10,563 - __main__ - INFO - Program version-1.3.1, Content length = 2239,uuid = ,indexName =  ,time elapse =29843ms,result={'keyword': []}.
+2020-10-28 18:04:10,593 - __main__ - INFO - Program version-1.3.1, Content length = 1079,uuid = ,indexName =  ,time elapse =20168ms,result={'keyword': []}.
+2020-10-28 18:04:10,613 - __main__ - INFO - Program version-1.3.1, Content length = 1022,uuid = ,indexName =  ,time elapse =20243ms,result={'keyword': ['4#仁寿县', '2#四川']}.
+2020-10-28 18:04:10,613 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:10,623 - __main__ - INFO - Program version-1.3.1, Content length = 109,uuid = ,indexName =  ,time elapse =10016ms,result={'keyword': ['4#扎鲁特旗']}.
+2020-10-28 18:04:10,643 - __main__ - INFO - Program version-1.3.1, Content length = 942,uuid = ,indexName =  ,time elapse =19964ms,result={'keyword': ['4#彭山区']}.
+2020-10-28 18:04:10,672 - __main__ - INFO - Program version-1.3.1, Content length = 1612,uuid = ,indexName =  ,time elapse =28840ms,result={'keyword': ['1#中国', '2#新疆', '2#北京']}.
+2020-10-28 18:04:10,683 - __main__ - INFO - Program version-1.3.1, Content length = 523,uuid = ,indexName =  ,time elapse =9987ms,result={'keyword': ['4#丹徒区', '3#镇江', '2#江苏']}.
+2020-10-28 18:04:10,683 - __main__ - INFO - Program version-1.3.1, Content length = 124,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:10,703 - __main__ - INFO - Program version-1.3.1, Content length = 817,uuid = ,indexName =  ,time elapse =9746ms,result={'keyword': ['4#沛县', '2#江苏']}.
+2020-10-28 18:04:10,713 - __main__ - INFO - Program version-1.3.1, Content length = 356,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#上海']}.
+2020-10-28 18:04:10,738 - __main__ - INFO - Program version-1.3.1, Content length = 805,uuid = ,indexName =  ,time elapse =15246ms,result={'keyword': ['2#广东']}.
+2020-10-28 18:04:10,744 - __main__ - INFO - Program version-1.3.1, Content length = 229,uuid = ,indexName =  ,time elapse =5113ms,result={'keyword': []}.
+2020-10-28 18:04:10,773 - __main__ - INFO - Program version-1.3.1, Content length = 1346,uuid = ,indexName =  ,time elapse =29684ms,result={'keyword': []}.
+2020-10-28 18:04:10,773 - __main__ - INFO - Program version-1.3.1, Content length = 15,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:10,793 - __main__ - INFO - Program version-1.3.1, Content length = 834,uuid = ,indexName =  ,time elapse =20270ms,result={'keyword': ['2#河北', '4#井陉县']}.
+2020-10-28 18:04:10,803 - __main__ - INFO - Program version-1.3.1, Content length = 564,uuid = ,indexName =  ,time elapse =9795ms,result={'keyword': ['1#中国', '2#北京']}.
+2020-10-28 18:04:10,823 - __main__ - INFO - Program version-1.3.1, Content length = 361,uuid = ,indexName =  ,time elapse =9822ms,result={'keyword': ['2#浙江', '3#温州']}.
+2020-10-28 18:04:10,833 - __main__ - INFO - Program version-1.3.1, Content length = 578,uuid = ,indexName =  ,time elapse =10050ms,result={'keyword': []}.
+2020-10-28 18:04:10,853 - __main__ - INFO - Program version-1.3.1, Content length = 1058,uuid = ,indexName =  ,time elapse =15011ms,result={'keyword': ['4#万载县']}.
+2020-10-28 18:04:10,884 - __main__ - INFO - Program version-1.3.1, Content length = 1503,uuid = ,indexName =  ,time elapse =20406ms,result={'keyword': ['4#北仑区']}.
+2020-10-28 18:04:10,894 - __main__ - INFO - Program version-1.3.1, Content length = 15,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:10,903 - __main__ - INFO - Program version-1.3.1, Content length = 772,uuid = ,indexName =  ,time elapse =9669ms,result={'keyword': ['3#潼南区', '2#重庆']}.
+2020-10-28 18:04:10,924 - __main__ - INFO - Program version-1.3.1, Content length = 901,uuid = ,indexName =  ,time elapse =10182ms,result={'keyword': ['1#中国', '2#北京']}.
+2020-10-28 18:04:10,933 - __main__ - INFO - Program version-1.3.1, Content length = 196,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:10,943 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:10,958 - __main__ - INFO - Program version-1.3.1, Content length = 857,uuid = ,indexName =  ,time elapse =15080ms,result={'keyword': []}.
+2020-10-28 18:04:10,973 - __main__ - INFO - Program version-1.3.1, Content length = 566,uuid = ,indexName =  ,time elapse =9724ms,result={'keyword': ['4#双滦区', '2#河北', '3#承德']}.
+2020-10-28 18:04:11,004 - __main__ - INFO - Program version-1.3.1, Content length = 1704,uuid = ,indexName =  ,time elapse =30399ms,result={'keyword': ['1#中国', '2#福建', '2#广东']}.
+2020-10-28 18:04:11,013 - __main__ - INFO - Program version-1.3.1, Content length = 283,uuid = ,indexName =  ,time elapse =9623ms,result={'keyword': ['3#济南', '2#山东']}.
+2020-10-28 18:04:11,083 - __main__ - INFO - Program version-1.3.1, Content length = 4194,uuid = ,indexName =  ,time elapse =70286ms,result={'keyword': ['2#河南', '2#台湾', '4#安吉县', '2#浙江', '4#丰县']}.
+2020-10-28 18:04:11,093 - __main__ - INFO - Program version-1.3.1, Content length = 160,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:11,093 - __main__ - INFO - Program version-1.3.1, Content length = 13,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:11,103 - __main__ - INFO - Program version-1.3.1, Content length = 145,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#南京', '2#江苏', '4#玄武区']}.
+2020-10-28 18:04:11,119 - __main__ - INFO - Program version-1.3.1, Content length = 495,uuid = ,indexName =  ,time elapse =15035ms,result={'keyword': ['4#灌云县', '2#江苏']}.
+2020-10-28 18:04:11,123 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:11,133 - __main__ - INFO - Program version-1.3.1, Content length = 455,uuid = ,indexName =  ,time elapse =10400ms,result={'keyword': []}.
+2020-10-28 18:04:11,143 - __main__ - INFO - Program version-1.3.1, Content length = 477,uuid = ,indexName =  ,time elapse =9705ms,result={'keyword': []}.
+2020-10-28 18:04:11,153 - __main__ - INFO - Program version-1.3.1, Content length = 12,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:11,153 - __main__ - INFO - Program version-1.3.1, Content length = 59,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#新城区']}.
+2020-10-28 18:04:11,183 - __main__ - INFO - Program version-1.3.1, Content length = 1446,uuid = ,indexName =  ,time elapse =29850ms,result={'keyword': ['2#江苏', '2#辽宁', '4#嵊州市', '2#甘肃', '2#浙江']}.
+2020-10-28 18:04:11,193 - __main__ - INFO - Program version-1.3.1, Content length = 455,uuid = ,indexName =  ,time elapse =10265ms,result={'keyword': ['1#中国', '3#青岛']}.
+2020-10-28 18:04:11,214 - __main__ - INFO - Program version-1.3.1, Content length = 876,uuid = ,indexName =  ,time elapse =10045ms,result={'keyword': ['1#中国', '4#蒲城县', '2#陕西']}.
+2020-10-28 18:04:11,232 - __main__ - INFO - Program version-1.3.1, Content length = 555,uuid = ,indexName =  ,time elapse =17922ms,result={'keyword': ['1#中国', '2#北京']}.
+2020-10-28 18:04:11,243 - __main__ - INFO - Program version-1.3.1, Content length = 328,uuid = ,indexName =  ,time elapse =5955ms,result={'keyword': []}.
+2020-10-28 18:04:11,263 - __main__ - INFO - Program version-1.3.1, Content length = 807,uuid = ,indexName =  ,time elapse =19776ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:11,274 - __main__ - INFO - Program version-1.3.1, Content length = 533,uuid = ,indexName =  ,time elapse =5695ms,result={'keyword': ['2#广东']}.
+2020-10-28 18:04:11,283 - __main__ - INFO - Program version-1.3.1, Content length = 222,uuid = ,indexName =  ,time elapse =9429ms,result={'keyword': ['3#青岛']}.
+2020-10-28 18:04:11,293 - __main__ - INFO - Program version-1.3.1, Content length = 430,uuid = ,indexName =  ,time elapse =9868ms,result={'keyword': ['4#泸定县', '4#石渠县']}.
+2020-10-28 18:04:11,313 - __main__ - INFO - Program version-1.3.1, Content length = 681,uuid = ,indexName =  ,time elapse =20029ms,result={'keyword': []}.
+2020-10-28 18:04:11,344 - __main__ - INFO - Program version-1.3.1, Content length = 1432,uuid = ,indexName =  ,time elapse =30366ms,result={'keyword': ['3#中山', '2#广东', '4#老城区', '2#江西', '4#城区']}.
+2020-10-28 18:04:11,353 - __main__ - INFO - Program version-1.3.1, Content length = 513,uuid = ,indexName =  ,time elapse =9898ms,result={'keyword': []}.
+2020-10-28 18:04:11,373 - __main__ - INFO - Program version-1.3.1, Content length = 745,uuid = ,indexName =  ,time elapse =14724ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:11,374 - __main__ - INFO - Program version-1.3.1, Content length = 397,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#桥西区', '4#长安区', '4#新华区', '4#裕华区']}.
+2020-10-28 18:04:11,383 - __main__ - INFO - Program version-1.3.1, Content length = 319,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国', '3#安顺', '4#西秀区']}.
+2020-10-28 18:04:11,403 - __main__ - INFO - Program version-1.3.1, Content length = 679,uuid = ,indexName =  ,time elapse =9850ms,result={'keyword': ['4#仁怀市', '2#重庆', '2#贵州', '2#上海', '2#北京', '2#广东']}.
+2020-10-28 18:04:11,414 - __main__ - INFO - Program version-1.3.1, Content length = 739,uuid = ,indexName =  ,time elapse =10357ms,result={'keyword': []}.
+2020-10-28 18:04:11,438 - __main__ - INFO - Program version-1.3.1, Content length = 870,uuid = ,indexName =  ,time elapse =14943ms,result={'keyword': ['1#中国', '3#梧州', '4#藤县', '4#万秀区']}.
+2020-10-28 18:04:11,473 - __main__ - INFO - Program version-1.3.1, Content length = 1887,uuid = ,indexName =  ,time elapse =30051ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:11,474 - __main__ - INFO - Program version-1.3.1, Content length = 5,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:11,493 - __main__ - INFO - Program version-1.3.1, Content length = 789,uuid = ,indexName =  ,time elapse =19563ms,result={'keyword': ['3#石家庄']}.
+2020-10-28 18:04:11,493 - __main__ - INFO - Program version-1.3.1, Content length = 264,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:11,514 - __main__ - INFO - Program version-1.3.1, Content length = 628,uuid = ,indexName =  ,time elapse =10122ms,result={'keyword': ['3#九江', '4#彭泽县']}.
+2020-10-28 18:04:11,524 - __main__ - INFO - Program version-1.3.1, Content length = 510,uuid = ,indexName =  ,time elapse =9971ms,result={'keyword': ['3#九江']}.
+2020-10-28 18:04:11,574 - __main__ - INFO - Program version-1.3.1, Content length = 2784,uuid = ,indexName =  ,time elapse =50017ms,result={'keyword': ['1#中国', '4#仁和区', '3#攀枝花', '2#四川']}.
+2020-10-28 18:04:11,593 - __main__ - INFO - Program version-1.3.1, Content length = 1510,uuid = ,indexName =  ,time elapse =19042ms,result={'keyword': ['4#广丰区', '4#德兴市', '3#上饶', '4#玉山县', '2#江西']}.
+2020-10-28 18:04:11,623 - __main__ - INFO - Program version-1.3.1, Content length = 1213,uuid = ,indexName =  ,time elapse =10158ms,result={'keyword': ['1#中国', '2#山东', '3#青岛']}.
+2020-10-28 18:04:11,633 - __main__ - INFO - Program version-1.3.1, Content length = 601,uuid = ,indexName =  ,time elapse =10140ms,result={'keyword': ['3#洛阳', '2#河南']}.
+2020-10-28 18:04:11,674 - __main__ - INFO - Program version-1.3.1, Content length = 2201,uuid = ,indexName =  ,time elapse =41048ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:11,684 - __main__ - INFO - Program version-1.3.1, Content length = 901,uuid = ,indexName =  ,time elapse =9082ms,result={'keyword': ['3#乐山', '4#布拖县', '4#兴文县', '3#宜宾', '3#泸州']}.
+2020-10-28 18:04:11,703 - __main__ - INFO - Program version-1.3.1, Content length = 610,uuid = ,indexName =  ,time elapse =9769ms,result={'keyword': ['2#湖南']}.
+2020-10-28 18:04:11,703 - __main__ - INFO - Program version-1.3.1, Content length = 111,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#永州', '4#冷水滩区']}.
+2020-10-28 18:04:11,713 - __main__ - INFO - Program version-1.3.1, Content length = 191,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#湖北']}.
+2020-10-28 18:04:11,743 - __main__ - INFO - Program version-1.3.1, Content length = 1375,uuid = ,indexName =  ,time elapse =29843ms,result={'keyword': ['4#濉溪县', '4#和县']}.
+2020-10-28 18:04:11,758 - __main__ - INFO - Program version-1.3.1, Content length = 756,uuid = ,indexName =  ,time elapse =15306ms,result={'keyword': ['4#巧家县', '4#镇雄县', '3#昭通', '4#盐津县']}.
+2020-10-28 18:04:11,793 - __main__ - INFO - Program version-1.3.1, Content length = 2241,uuid = ,indexName =  ,time elapse =29842ms,result={'keyword': ['2#北京', '2#上海', '2#浙江']}.
+2020-10-28 18:04:11,793 - __main__ - INFO - Program version-1.3.1, Content length = 5,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:11,813 - __main__ - INFO - Program version-1.3.1, Content length = 791,uuid = ,indexName =  ,time elapse =9807ms,result={'keyword': ['4#金牛区']}.
+2020-10-28 18:04:11,843 - __main__ - INFO - Program version-1.3.1, Content length = 1189,uuid = ,indexName =  ,time elapse =30113ms,result={'keyword': ['2#贵州']}.
+2020-10-28 18:04:11,863 - __main__ - INFO - Program version-1.3.1, Content length = 1121,uuid = ,indexName =  ,time elapse =19856ms,result={'keyword': []}.
+2020-10-28 18:04:11,863 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:11,874 - __main__ - INFO - Program version-1.3.1, Content length = 90,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#商州区']}.
+2020-10-28 18:04:11,883 - __main__ - INFO - Program version-1.3.1, Content length = 442,uuid = ,indexName =  ,time elapse =9175ms,result={'keyword': ['3#眉山', '2#四川', '4#洪雅县']}.
+2020-10-28 18:04:11,913 - __main__ - INFO - Program version-1.3.1, Content length = 2172,uuid = ,indexName =  ,time elapse =24881ms,result={'keyword': ['2#江西']}.
+2020-10-28 18:04:11,913 - __main__ - INFO - Program version-1.3.1, Content length = 120,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:12,003 - __main__ - INFO - Program version-1.3.1, Content length = 5008,uuid = ,indexName =  ,time elapse =79972ms,result={'keyword': ['4#资兴市', '3#郴州', '4#城区']}.
+2020-10-28 18:04:12,023 - __main__ - INFO - Program version-1.3.1, Content length = 863,uuid = ,indexName =  ,time elapse =19900ms,result={'keyword': ['4#商南县', '2#北京']}.
+2020-10-28 18:04:12,023 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:12,033 - __main__ - INFO - Program version-1.3.1, Content length = 182,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:12,063 - __main__ - INFO - Program version-1.3.1, Content length = 1356,uuid = ,indexName =  ,time elapse =30059ms,result={'keyword': ['1#中国', '2#北京']}.
+2020-10-28 18:04:12,074 - __main__ - INFO - Program version-1.3.1, Content length = 677,uuid = ,indexName =  ,time elapse =10872ms,result={'keyword': ['4#长洲区']}.
+2020-10-28 18:04:12,083 - __main__ - INFO - Program version-1.3.1, Content length = 385,uuid = ,indexName =  ,time elapse =8950ms,result={'keyword': []}.
+2020-10-28 18:04:12,093 - __main__ - INFO - Program version-1.3.1, Content length = 79,uuid = ,indexName =  ,time elapse =9878ms,result={'keyword': []}.
+2020-10-28 18:04:12,113 - __main__ - INFO - Program version-1.3.1, Content length = 1381,uuid = ,indexName =  ,time elapse =20182ms,result={'keyword': ['3#西安']}.
+2020-10-28 18:04:12,143 - __main__ - INFO - Program version-1.3.1, Content length = 1762,uuid = ,indexName =  ,time elapse =19794ms,result={'keyword': ['4#未央区', '2#陕西', '3#西安']}.
+2020-10-28 18:04:12,153 - __main__ - INFO - Program version-1.3.1, Content length = 156,uuid = ,indexName =  ,time elapse =10209ms,result={'keyword': ['4#淇滨区']}.
+2020-10-28 18:04:12,153 - __main__ - INFO - Program version-1.3.1, Content length = 189,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:12,163 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:12,175 - __main__ - INFO - Program version-1.3.1, Content length = 1086,uuid = ,indexName =  ,time elapse =11342ms,result={'keyword': ['1#中国', '2#湖南']}.
+2020-10-28 18:04:12,193 - __main__ - INFO - Program version-1.3.1, Content length = 765,uuid = ,indexName =  ,time elapse =10017ms,result={'keyword': ['4#淇滨区']}.
+2020-10-28 18:04:12,203 - __main__ - INFO - Program version-1.3.1, Content length = 87,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#淇滨区']}.
+2020-10-28 18:04:12,213 - __main__ - INFO - Program version-1.3.1, Content length = 418,uuid = ,indexName =  ,time elapse =10127ms,result={'keyword': []}.
+2020-10-28 18:04:12,253 - __main__ - INFO - Program version-1.3.1, Content length = 1999,uuid = ,indexName =  ,time elapse =39991ms,result={'keyword': ['4#仓山区', '2#福建', '3#福州']}.
+2020-10-28 18:04:12,263 - __main__ - INFO - Program version-1.3.1, Content length = 495,uuid = ,indexName =  ,time elapse =9952ms,result={'keyword': ['3#鹤壁', '2#河南']}.
+2020-10-28 18:04:12,275 - __main__ - INFO - Program version-1.3.1, Content length = 670,uuid = ,indexName =  ,time elapse =11769ms,result={'keyword': []}.
+2020-10-28 18:04:12,284 - __main__ - INFO - Program version-1.3.1, Content length = 6,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:12,284 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:12,293 - __main__ - INFO - Program version-1.3.1, Content length = 400,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#淇滨区']}.
+2020-10-28 18:04:12,323 - __main__ - INFO - Program version-1.3.1, Content length = 1395,uuid = ,indexName =  ,time elapse =20123ms,result={'keyword': []}.
+2020-10-28 18:04:12,338 - __main__ - INFO - Program version-1.3.1, Content length = 725,uuid = ,indexName =  ,time elapse =10263ms,result={'keyword': ['4#淇滨区']}.
+2020-10-28 18:04:12,353 - __main__ - INFO - Program version-1.3.1, Content length = 1074,uuid = ,indexName =  ,time elapse =15134ms,result={'keyword': ['2#天津', '2#上海']}.
+2020-10-28 18:04:12,375 - __main__ - INFO - Program version-1.3.1, Content length = 1030,uuid = ,indexName =  ,time elapse =21706ms,result={'keyword': ['3#鹤壁']}.
+2020-10-28 18:04:12,393 - __main__ - INFO - Program version-1.3.1, Content length = 1034,uuid = ,indexName =  ,time elapse =18259ms,result={'keyword': ['3#鹤壁']}.
+2020-10-28 18:04:12,413 - __main__ - INFO - Program version-1.3.1, Content length = 722,uuid = ,indexName =  ,time elapse =9807ms,result={'keyword': ['4#淇滨区']}.
+2020-10-28 18:04:12,423 - __main__ - INFO - Program version-1.3.1, Content length = 568,uuid = ,indexName =  ,time elapse =10057ms,result={'keyword': ['4#山城区']}.
+2020-10-28 18:04:12,423 - __main__ - INFO - Program version-1.3.1, Content length = 111,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#淇滨区', '2#河南']}.
+2020-10-28 18:04:12,448 - __main__ - INFO - Program version-1.3.1, Content length = 940,uuid = ,indexName =  ,time elapse =14936ms,result={'keyword': ['1#中国', '2#上海']}.
+2020-10-28 18:04:12,463 - __main__ - INFO - Program version-1.3.1, Content length = 826,uuid = ,indexName =  ,time elapse =10035ms,result={'keyword': []}.
+2020-10-28 18:04:12,475 - __main__ - INFO - Program version-1.3.1, Content length = 368,uuid = ,indexName =  ,time elapse =11935ms,result={'keyword': ['2#上海', '3#长宁区']}.
+2020-10-28 18:04:12,503 - __main__ - INFO - Program version-1.3.1, Content length = 1603,uuid = ,indexName =  ,time elapse =28021ms,result={'keyword': ['3#杨浦区', '2#上海']}.
+2020-10-28 18:04:12,518 - __main__ - INFO - Program version-1.3.1, Content length = 573,uuid = ,indexName =  ,time elapse =15025ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:12,523 - __main__ - INFO - Program version-1.3.1, Content length = 180,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国', '2#天津', '2#北京']}.
+2020-10-28 18:04:12,543 - __main__ - INFO - Program version-1.3.1, Content length = 876,uuid = ,indexName =  ,time elapse =20050ms,result={'keyword': []}.
+2020-10-28 18:04:12,558 - __main__ - INFO - Program version-1.3.1, Content length = 1074,uuid = ,indexName =  ,time elapse =14774ms,result={'keyword': ['3#张家界', '4#湘阴县', '2#湖南', '4#永定区']}.
+2020-10-28 18:04:12,563 - __main__ - INFO - Program version-1.3.1, Content length = 143,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:12,583 - __main__ - INFO - Program version-1.3.1, Content length = 806,uuid = ,indexName =  ,time elapse =19973ms,result={'keyword': ['4#老城区']}.
+2020-10-28 18:04:12,603 - __main__ - INFO - Program version-1.3.1, Content length = 1116,uuid = ,indexName =  ,time elapse =20175ms,result={'keyword': ['3#朝阳区', '2#北京']}.
+2020-10-28 18:04:12,613 - __main__ - INFO - Program version-1.3.1, Content length = 380,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:12,633 - __main__ - INFO - Program version-1.3.1, Content length = 845,uuid = ,indexName =  ,time elapse =10060ms,result={'keyword': ['4#淇县', '4#城区', '4#浚县']}.
+2020-10-28 18:04:12,653 - __main__ - INFO - Program version-1.3.1, Content length = 1067,uuid = ,indexName =  ,time elapse =19922ms,result={'keyword': ['4#淇滨区', '4#山城区']}.
+2020-10-28 18:04:12,664 - __main__ - INFO - Program version-1.3.1, Content length = 112,uuid = ,indexName =  ,time elapse =10457ms,result={'keyword': ['4#淇滨区']}.
+2020-10-28 18:04:12,723 - __main__ - INFO - Program version-1.3.1, Content length = 3449,uuid = ,indexName =  ,time elapse =59888ms,result={'keyword': ['4#淇县', '1#中国']}.
+2020-10-28 18:04:12,734 - __main__ - INFO - Program version-1.3.1, Content length = 372,uuid = ,indexName =  ,time elapse =10049ms,result={'keyword': ['2#上海']}.
+2020-10-28 18:04:12,743 - __main__ - INFO - Program version-1.3.1, Content length = 248,uuid = ,indexName =  ,time elapse =9644ms,result={'keyword': ['4#皇姑区']}.
+2020-10-28 18:04:12,753 - __main__ - INFO - Program version-1.3.1, Content length = 464,uuid = ,indexName =  ,time elapse =10190ms,result={'keyword': ['2#湖北', '4#南山区']}.
+2020-10-28 18:04:12,763 - __main__ - INFO - Program version-1.3.1, Content length = 428,uuid = ,indexName =  ,time elapse =9965ms,result={'keyword': ['2#湖北', '1#中国', '3#恩施土家族苗族自治州', '4#利川市']}.
+2020-10-28 18:04:12,783 - __main__ - INFO - Program version-1.3.1, Content length = 842,uuid = ,indexName =  ,time elapse =19888ms,result={'keyword': ['3#东莞']}.
+2020-10-28 18:04:12,783 - __main__ - INFO - Program version-1.3.1, Content length = 290,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#三明']}.
+2020-10-28 18:04:12,793 - __main__ - INFO - Program version-1.3.1, Content length = 406,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#城区', '4#宣恩县']}.
+2020-10-28 18:04:12,803 - __main__ - INFO - Program version-1.3.1, Content length = 441,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#湖北', '1#中国', '3#仙桃']}.
+2020-10-28 18:04:12,813 - __main__ - INFO - Program version-1.3.1, Content length = 449,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国', '2#湖北']}.
+2020-10-28 18:04:12,833 - __main__ - INFO - Program version-1.3.1, Content length = 452,uuid = ,indexName =  ,time elapse =9891ms,result={'keyword': ['4#城区', '3#福州']}.
+2020-10-28 18:04:12,833 - __main__ - INFO - Program version-1.3.1, Content length = 270,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:12,854 - __main__ - INFO - Program version-1.3.1, Content length = 531,uuid = ,indexName =  ,time elapse =10434ms,result={'keyword': ['3#宝山区', '3#虹口区', '3#黄浦区', '3#杨浦区']}.
+2020-10-28 18:04:12,863 - __main__ - INFO - Program version-1.3.1, Content length = 463,uuid = ,indexName =  ,time elapse =9628ms,result={'keyword': []}.
+2020-10-28 18:04:12,863 - __main__ - INFO - Program version-1.3.1, Content length = 96,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#清水河县']}.
+2020-10-28 18:04:12,876 - __main__ - INFO - Program version-1.3.1, Content length = 315,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:12,913 - __main__ - INFO - Program version-1.3.1, Content length = 2208,uuid = ,indexName =  ,time elapse =30214ms,result={'keyword': ['1#中国', '2#辽宁']}.
+2020-10-28 18:04:12,943 - __main__ - INFO - Program version-1.3.1, Content length = 1320,uuid = ,indexName =  ,time elapse =19954ms,result={'keyword': ['2#广东']}.
+2020-10-28 18:04:12,958 - __main__ - INFO - Program version-1.3.1, Content length = 699,uuid = ,indexName =  ,time elapse =14968ms,result={'keyword': []}.
+2020-10-28 18:04:12,958 - __main__ - INFO - Program version-1.3.1, Content length = 5,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:12,973 - __main__ - INFO - Program version-1.3.1, Content length = 555,uuid = ,indexName =  ,time elapse =9781ms,result={'keyword': []}.
+2020-10-28 18:04:12,976 - __main__ - INFO - Program version-1.3.1, Content length = 129,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:12,983 - __main__ - INFO - Program version-1.3.1, Content length = 171,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#萍乡', '4#安源区']}.
+2020-10-28 18:04:12,993 - __main__ - INFO - Program version-1.3.1, Content length = 545,uuid = ,indexName =  ,time elapse =10094ms,result={'keyword': ['4#汝城县']}.
+2020-10-28 18:04:13,003 - __main__ - INFO - Program version-1.3.1, Content length = 456,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#眉山', '2#四川', '4#洪雅县']}.
+2020-10-28 18:04:13,013 - __main__ - INFO - Program version-1.3.1, Content length = 169,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#奈曼旗']}.
+2020-10-28 18:04:13,023 - __main__ - INFO - Program version-1.3.1, Content length = 159,uuid = ,indexName =  ,time elapse =9949ms,result={'keyword': ['2#海南']}.
+2020-10-28 18:04:13,043 - __main__ - INFO - Program version-1.3.1, Content length = 1322,uuid = ,indexName =  ,time elapse =20128ms,result={'keyword': ['4#淄川区', '3#淄博']}.
+2020-10-28 18:04:13,063 - __main__ - INFO - Program version-1.3.1, Content length = 723,uuid = ,indexName =  ,time elapse =9791ms,result={'keyword': ['4#科尔沁区']}.
+2020-10-28 18:04:13,103 - __main__ - INFO - Program version-1.3.1, Content length = 2354,uuid = ,indexName =  ,time elapse =40019ms,result={'keyword': ['2#河北']}.
+2020-10-28 18:04:13,123 - __main__ - INFO - Program version-1.3.1, Content length = 530,uuid = ,indexName =  ,time elapse =10087ms,result={'keyword': []}.
+2020-10-28 18:04:13,133 - __main__ - INFO - Program version-1.3.1, Content length = 453,uuid = ,indexName =  ,time elapse =9720ms,result={'keyword': ['2#上海']}.
+2020-10-28 18:04:13,143 - __main__ - INFO - Program version-1.3.1, Content length = 627,uuid = ,indexName =  ,time elapse =9985ms,result={'keyword': ['4#东坡区']}.
+2020-10-28 18:04:13,163 - __main__ - INFO - Program version-1.3.1, Content length = 557,uuid = ,indexName =  ,time elapse =19977ms,result={'keyword': ['4#丹棱县']}.
+2020-10-28 18:04:13,163 - __main__ - INFO - Program version-1.3.1, Content length = 157,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#江西', '4#芦溪县']}.
+2020-10-28 18:04:13,213 - __main__ - INFO - Program version-1.3.1, Content length = 2557,uuid = ,indexName =  ,time elapse =39937ms,result={'keyword': ['1#中国', '2#山东', '2#四川', '2#湖北']}.
+2020-10-28 18:04:13,245 - __main__ - INFO - Program version-1.3.1, Content length = 1768,uuid = ,indexName =  ,time elapse =31963ms,result={'keyword': ['4#城区', '4#思明区', '3#厦门']}.
+2020-10-28 18:04:13,253 - __main__ - INFO - Program version-1.3.1, Content length = 6,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:13,253 - __main__ - INFO - Program version-1.3.1, Content length = 306,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国', '2#海南']}.
+2020-10-28 18:04:13,293 - __main__ - INFO - Program version-1.3.1, Content length = 1845,uuid = ,indexName =  ,time elapse =30288ms,result={'keyword': ['4#仁寿县', '4#城区']}.
+2020-10-28 18:04:13,303 - __main__ - INFO - Program version-1.3.1, Content length = 408,uuid = ,indexName =  ,time elapse =9715ms,result={'keyword': []}.
+2020-10-28 18:04:13,323 - __main__ - INFO - Program version-1.3.1, Content length = 818,uuid = ,indexName =  ,time elapse =15158ms,result={'keyword': ['2#湖北']}.
+2020-10-28 18:04:13,323 - __main__ - INFO - Program version-1.3.1, Content length = 19,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:13,413 - __main__ - INFO - Program version-1.3.1, Content length = 5846,uuid = ,indexName =  ,time elapse =89955ms,result={'keyword': ['4#镇安县', '3#商洛']}.
+2020-10-28 18:04:13,443 - __main__ - INFO - Program version-1.3.1, Content length = 1118,uuid = ,indexName =  ,time elapse =19747ms,result={'keyword': ['1#中国', '2#北京']}.
+2020-10-28 18:04:13,453 - __main__ - INFO - Program version-1.3.1, Content length = 646,uuid = ,indexName =  ,time elapse =10165ms,result={'keyword': []}.
+2020-10-28 18:04:13,469 - __main__ - INFO - Program version-1.3.1, Content length = 435,uuid = ,indexName =  ,time elapse =15204ms,result={'keyword': ['4#城区']}.
+2020-10-28 18:04:13,477 - __main__ - INFO - Program version-1.3.1, Content length = 455,uuid = ,indexName =  ,time elapse =8147ms,result={'keyword': ['4#东坡区']}.
+2020-10-28 18:04:13,503 - __main__ - INFO - Program version-1.3.1, Content length = 1232,uuid = ,indexName =  ,time elapse =20205ms,result={'keyword': []}.
+2020-10-28 18:04:13,503 - __main__ - INFO - Program version-1.3.1, Content length = 219,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#琼山区', '3#海口']}.
+2020-10-28 18:04:13,523 - __main__ - INFO - Program version-1.3.1, Content length = 469,uuid = ,indexName =  ,time elapse =9920ms,result={'keyword': []}.
+2020-10-28 18:04:13,533 - __main__ - INFO - Program version-1.3.1, Content length = 520,uuid = ,indexName =  ,time elapse =10333ms,result={'keyword': ['4#贞丰县', '4#城区']}.
+2020-10-28 18:04:13,544 - __main__ - INFO - Program version-1.3.1, Content length = 409,uuid = ,indexName =  ,time elapse =10089ms,result={'keyword': ['4#开鲁县']}.
+2020-10-28 18:04:13,553 - __main__ - INFO - Program version-1.3.1, Content length = 425,uuid = ,indexName =  ,time elapse =9775ms,result={'keyword': ['2#湖南']}.
+2020-10-28 18:04:13,563 - __main__ - INFO - Program version-1.3.1, Content length = 37,uuid = ,indexName =  ,time elapse =10017ms,result={'keyword': []}.
+2020-10-28 18:04:13,563 - __main__ - INFO - Program version-1.3.1, Content length = 183,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:13,577 - __main__ - INFO - Program version-1.3.1, Content length = 180,uuid = ,indexName =  ,time elapse =3616ms,result={'keyword': ['4#青神县', '4#城区']}.
+2020-10-28 18:04:13,584 - __main__ - INFO - Program version-1.3.1, Content length = 693,uuid = ,indexName =  ,time elapse =6614ms,result={'keyword': ['4#和县', '4#青神县', '2#四川']}.
+2020-10-28 18:04:13,603 - __main__ - INFO - Program version-1.3.1, Content length = 595,uuid = ,indexName =  ,time elapse =9975ms,result={'keyword': ['4#城区', '4#雨城区', '3#雅安']}.
+2020-10-28 18:04:13,643 - __main__ - INFO - Program version-1.3.1, Content length = 2529,uuid = ,indexName =  ,time elapse =40093ms,result={'keyword': ['4#名山区', '3#雅安']}.
+2020-10-28 18:04:13,683 - __main__ - INFO - Program version-1.3.1, Content length = 1973,uuid = ,indexName =  ,time elapse =29983ms,result={'keyword': ['4#雨城区', '3#雅安']}.
+2020-10-28 18:04:13,683 - __main__ - INFO - Program version-1.3.1, Content length = 21,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#陕西']}.
+2020-10-28 18:04:13,683 - __main__ - INFO - Program version-1.3.1, Content length = 99,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#济宁']}.
+2020-10-28 18:04:13,703 - __main__ - INFO - Program version-1.3.1, Content length = 790,uuid = ,indexName =  ,time elapse =9902ms,result={'keyword': ['3#河北区', '2#天津']}.
+2020-10-28 18:04:13,784 - __main__ - INFO - Program version-1.3.1, Content length = 4679,uuid = ,indexName =  ,time elapse =70403ms,result={'keyword': ['1#中国', '2#天津', '3#滨海新区', '3#西青区']}.
+2020-10-28 18:04:13,803 - __main__ - INFO - Program version-1.3.1, Content length = 629,uuid = ,indexName =  ,time elapse =10003ms,result={'keyword': ['4#阳原县']}.
+2020-10-28 18:04:13,893 - __main__ - INFO - Program version-1.3.1, Content length = 5694,uuid = ,indexName =  ,time elapse =90164ms,result={'keyword': ['1#中国', '2#山东', '2#上海', '2#安徽', '2#北京', '2#天津']}.
+2020-10-28 18:04:13,914 - __main__ - INFO - Program version-1.3.1, Content length = 951,uuid = ,indexName =  ,time elapse =20162ms,result={'keyword': ['4#宁南县', '2#四川', '4#涪城区']}.
+2020-10-28 18:04:13,933 - __main__ - INFO - Program version-1.3.1, Content length = 1206,uuid = ,indexName =  ,time elapse =19610ms,result={'keyword': ['2#内蒙古', '4#科尔沁区']}.
+2020-10-28 18:04:13,993 - __main__ - INFO - Program version-1.3.1, Content length = 3387,uuid = ,indexName =  ,time elapse =50149ms,result={'keyword': ['1#中国', '4#怀远县', '2#安徽']}.
+2020-10-28 18:04:14,003 - __main__ - INFO - Program version-1.3.1, Content length = 356,uuid = ,indexName =  ,time elapse =10229ms,result={'keyword': ['2#天津']}.
+2020-10-28 18:04:14,023 - __main__ - INFO - Program version-1.3.1, Content length = 799,uuid = ,indexName =  ,time elapse =9668ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:14,053 - __main__ - INFO - Program version-1.3.1, Content length = 1616,uuid = ,indexName =  ,time elapse =30088ms,result={'keyword': ['3#通州区', '2#天津', '2#北京']}.
+2020-10-28 18:04:14,073 - __main__ - INFO - Program version-1.3.1, Content length = 1013,uuid = ,indexName =  ,time elapse =20193ms,result={'keyword': []}.
+2020-10-28 18:04:14,084 - __main__ - INFO - Program version-1.3.1, Content length = 609,uuid = ,indexName =  ,time elapse =5563ms,result={'keyword': ['4#卓尼县', '2#甘肃', '4#崆峒区', '4#庄浪县', '3#河西区', '3#平凉', '2#天津']}.
+2020-10-28 18:04:14,103 - __main__ - INFO - Program version-1.3.1, Content length = 1369,uuid = ,indexName =  ,time elapse =10078ms,result={'keyword': ['2#贵州']}.
+2020-10-28 18:04:14,103 - __main__ - INFO - Program version-1.3.1, Content length = 126,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:14,118 - __main__ - INFO - Program version-1.3.1, Content length = 238,uuid = ,indexName =  ,time elapse =5046ms,result={'keyword': ['4#红花岗区']}.
+2020-10-28 18:04:14,134 - __main__ - INFO - Program version-1.3.1, Content length = 640,uuid = ,indexName =  ,time elapse =10121ms,result={'keyword': ['3#南通', '2#江苏']}.
+2020-10-28 18:04:14,134 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:14,143 - __main__ - INFO - Program version-1.3.1, Content length = 94,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:14,173 - __main__ - INFO - Program version-1.3.1, Content length = 1434,uuid = ,indexName =  ,time elapse =29917ms,result={'keyword': ['1#中国', '2#北京']}.
+2020-10-28 18:04:14,188 - __main__ - INFO - Program version-1.3.1, Content length = 859,uuid = ,indexName =  ,time elapse =10079ms,result={'keyword': ['2#贵州']}.
+2020-10-28 18:04:14,203 - __main__ - INFO - Program version-1.3.1, Content length = 960,uuid = ,indexName =  ,time elapse =9900ms,result={'keyword': []}.
+2020-10-28 18:04:14,223 - __main__ - INFO - Program version-1.3.1, Content length = 673,uuid = ,indexName =  ,time elapse =10193ms,result={'keyword': []}.
+2020-10-28 18:04:14,244 - __main__ - INFO - Program version-1.3.1, Content length = 903,uuid = ,indexName =  ,time elapse =13996ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:14,246 - __main__ - INFO - Program version-1.3.1, Content length = 145,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:14,274 - __main__ - INFO - Program version-1.3.1, Content length = 1278,uuid = ,indexName =  ,time elapse =20102ms,result={'keyword': ['3#沈阳', '3#和平区', '2#辽宁']}.
+2020-10-28 18:04:14,283 - __main__ - INFO - Program version-1.3.1, Content length = 453,uuid = ,indexName =  ,time elapse =5119ms,result={'keyword': ['2#云南']}.
+2020-10-28 18:04:14,313 - __main__ - INFO - Program version-1.3.1, Content length = 1557,uuid = ,indexName =  ,time elapse =30072ms,result={'keyword': ['3#无锡']}.
+2020-10-28 18:04:14,313 - __main__ - INFO - Program version-1.3.1, Content length = 157,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#无锡']}.
+2020-10-28 18:04:14,343 - __main__ - INFO - Program version-1.3.1, Content length = 1436,uuid = ,indexName =  ,time elapse =19879ms,result={'keyword': ['2#青海', '2#河南', '2#上海', '4#孟州市', '2#宁夏', '3#焦作']}.
+2020-10-28 18:04:14,393 - __main__ - INFO - Program version-1.3.1, Content length = 2291,uuid = ,indexName =  ,time elapse =40047ms,result={'keyword': ['4#梁溪区', '1#中国', '2#江苏']}.
+2020-10-28 18:04:14,414 - __main__ - INFO - Program version-1.3.1, Content length = 1381,uuid = ,indexName =  ,time elapse =20307ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:14,434 - __main__ - INFO - Program version-1.3.1, Content length = 515,uuid = ,indexName =  ,time elapse =10386ms,result={'keyword': ['4#荔波县', '2#贵州']}.
+2020-10-28 18:04:14,434 - __main__ - INFO - Program version-1.3.1, Content length = 272,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#都匀市']}.
+2020-10-28 18:04:14,444 - __main__ - INFO - Program version-1.3.1, Content length = 154,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:14,454 - __main__ - INFO - Program version-1.3.1, Content length = 496,uuid = ,indexName =  ,time elapse =10006ms,result={'keyword': []}.
+2020-10-28 18:04:14,508 - __main__ - INFO - Program version-1.3.1, Content length = 3002,uuid = ,indexName =  ,time elapse =45071ms,result={'keyword': ['2#云南', '3#昆明', '4#寻甸回族彝族自治县', '4#东川区', '4#禄劝彝族苗族自治县']}.
+2020-10-28 18:04:14,523 - __main__ - INFO - Program version-1.3.1, Content length = 750,uuid = ,indexName =  ,time elapse =9878ms,result={'keyword': []}.
+2020-10-28 18:04:14,584 - __main__ - INFO - Program version-1.3.1, Content length = 2946,uuid = ,indexName =  ,time elapse =55361ms,result={'keyword': ['1#中国', '4#福贡县', '3#怒江傈僳族自治州', '4#贡山独龙族怒族自治县', '4#泸水市', '3#珠海']}.
+2020-10-28 18:04:14,603 - __main__ - INFO - Program version-1.3.1, Content length = 1287,uuid = ,indexName =  ,time elapse =19710ms,result={'keyword': ['2#福建']}.
+2020-10-28 18:04:14,638 - __main__ - INFO - Program version-1.3.1, Content length = 1949,uuid = ,indexName =  ,time elapse =35098ms,result={'keyword': ['1#中国', '2#辽宁', '4#皇姑区', '3#沈阳']}.
+2020-10-28 18:04:14,643 - __main__ - INFO - Program version-1.3.1, Content length = 191,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#福贡县', '2#云南']}.
+2020-10-28 18:04:14,668 - __main__ - INFO - Program version-1.3.1, Content length = 1305,uuid = ,indexName =  ,time elapse =24750ms,result={'keyword': ['3#无锡']}.
+2020-10-28 18:04:14,703 - __main__ - INFO - Program version-1.3.1, Content length = 2167,uuid = ,indexName =  ,time elapse =29895ms,result={'keyword': []}.
+2020-10-28 18:04:14,728 - __main__ - INFO - Program version-1.3.1, Content length = 955,uuid = ,indexName =  ,time elapse =14945ms,result={'keyword': ['4#贞丰县']}.
+2020-10-28 18:04:14,733 - __main__ - INFO - Program version-1.3.1, Content length = 276,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:14,753 - __main__ - INFO - Program version-1.3.1, Content length = 707,uuid = ,indexName =  ,time elapse =19887ms,result={'keyword': ['4#龙里县', '2#贵州']}.
+2020-10-28 18:04:14,753 - __main__ - INFO - Program version-1.3.1, Content length = 112,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#邹城市']}.
+2020-10-28 18:04:14,763 - __main__ - INFO - Program version-1.3.1, Content length = 339,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#兴义市']}.
+2020-10-28 18:04:14,793 - __main__ - INFO - Program version-1.3.1, Content length = 1586,uuid = ,indexName =  ,time elapse =20089ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:14,803 - __main__ - INFO - Program version-1.3.1, Content length = 271,uuid = ,indexName =  ,time elapse =10136ms,result={'keyword': []}.
+2020-10-28 18:04:14,843 - __main__ - INFO - Program version-1.3.1, Content length = 2055,uuid = ,indexName =  ,time elapse =40142ms,result={'keyword': ['4#平塘县']}.
+2020-10-28 18:04:14,843 - __main__ - INFO - Program version-1.3.1, Content length = 6,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:14,859 - __main__ - INFO - Program version-1.3.1, Content length = 529,uuid = ,indexName =  ,time elapse =15062ms,result={'keyword': ['4#长顺县']}.
+2020-10-28 18:04:14,863 - __main__ - INFO - Program version-1.3.1, Content length = 668,uuid = ,indexName =  ,time elapse =4546ms,result={'keyword': ['4#黄埔区', '3#广州', '4#都匀市']}.
+2020-10-28 18:04:14,883 - __main__ - INFO - Program version-1.3.1, Content length = 537,uuid = ,indexName =  ,time elapse =9937ms,result={'keyword': ['4#长顺县', '2#贵州']}.
+2020-10-28 18:04:14,893 - __main__ - INFO - Program version-1.3.1, Content length = 535,uuid = ,indexName =  ,time elapse =9909ms,result={'keyword': ['3#昆明']}.
+2020-10-28 18:04:14,908 - __main__ - INFO - Program version-1.3.1, Content length = 586,uuid = ,indexName =  ,time elapse =14968ms,result={'keyword': []}.
+2020-10-28 18:04:14,923 - __main__ - INFO - Program version-1.3.1, Content length = 885,uuid = ,indexName =  ,time elapse =10053ms,result={'keyword': ['4#商城县', '3#信阳']}.
+2020-10-28 18:04:14,933 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:14,943 - __main__ - INFO - Program version-1.3.1, Content length = 355,uuid = ,indexName =  ,time elapse =10042ms,result={'keyword': ['3#荆门', '4#钟祥市']}.
+2020-10-28 18:04:14,954 - __main__ - INFO - Program version-1.3.1, Content length = 334,uuid = ,indexName =  ,time elapse =10300ms,result={'keyword': ['3#昌江黎族自治县', '2#海南']}.
+2020-10-28 18:04:14,963 - __main__ - INFO - Program version-1.3.1, Content length = 427,uuid = ,indexName =  ,time elapse =9793ms,result={'keyword': []}.
+2020-10-28 18:04:14,973 - __main__ - INFO - Program version-1.3.1, Content length = 462,uuid = ,indexName =  ,time elapse =9893ms,result={'keyword': ['1#中国', '4#蚌山区', '4#龙子湖区', '4#淮上区']}.
+2020-10-28 18:04:14,988 - __main__ - INFO - Program version-1.3.1, Content length = 505,uuid = ,indexName =  ,time elapse =9640ms,result={'keyword': ['3#汕头', '4#濠江区', '4#潮阳区']}.
+2020-10-28 18:04:15,003 - __main__ - INFO - Program version-1.3.1, Content length = 818,uuid = ,indexName =  ,time elapse =10049ms,result={'keyword': ['4#固始县']}.
+2020-10-28 18:04:15,013 - __main__ - INFO - Program version-1.3.1, Content length = 281,uuid = ,indexName =  ,time elapse =10037ms,result={'keyword': ['4#山阳区']}.
+2020-10-28 18:04:15,018 - __main__ - INFO - Program version-1.3.1, Content length = 48,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#余杭区']}.
+2020-10-28 18:04:15,033 - __main__ - INFO - Program version-1.3.1, Content length = 1046,uuid = ,indexName =  ,time elapse =10136ms,result={'keyword': ['4#宛城区']}.
+2020-10-28 18:04:15,044 - __main__ - INFO - Program version-1.3.1, Content length = 430,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:15,063 - __main__ - INFO - Program version-1.3.1, Content length = 541,uuid = ,indexName =  ,time elapse =10112ms,result={'keyword': ['3#宜昌']}.
+2020-10-28 18:04:15,094 - __main__ - INFO - Program version-1.3.1, Content length = 1978,uuid = ,indexName =  ,time elapse =30282ms,result={'keyword': ['4#西区']}.
+2020-10-28 18:04:15,113 - __main__ - INFO - Program version-1.3.1, Content length = 812,uuid = ,indexName =  ,time elapse =19917ms,result={'keyword': ['4#和县']}.
+2020-10-28 18:04:15,133 - __main__ - INFO - Program version-1.3.1, Content length = 1404,uuid = ,indexName =  ,time elapse =19633ms,result={'keyword': ['3#松江区', '3#金山区']}.
+2020-10-28 18:04:15,203 - __main__ - INFO - Program version-1.3.1, Content length = 3620,uuid = ,indexName =  ,time elapse =60346ms,result={'keyword': ['1#中国', '2#四川', '4#乐至县', '3#资阳', '4#雁江区', '4#安岳县']}.
+2020-10-28 18:04:15,213 - __main__ - INFO - Program version-1.3.1, Content length = 550,uuid = ,indexName =  ,time elapse =9731ms,result={'keyword': []}.
+2020-10-28 18:04:15,223 - __main__ - INFO - Program version-1.3.1, Content length = 316,uuid = ,indexName =  ,time elapse =10035ms,result={'keyword': ['2#内蒙古']}.
+2020-10-28 18:04:15,232 - __main__ - INFO - Program version-1.3.1, Content length = 71,uuid = ,indexName =  ,time elapse =1002ms,result={'keyword': []}.
+2020-10-28 18:04:15,245 - __main__ - INFO - Program version-1.3.1, Content length = 485,uuid = ,indexName =  ,time elapse =9003ms,result={'keyword': ['2#江苏']}.
+2020-10-28 18:04:15,263 - __main__ - INFO - Program version-1.3.1, Content length = 565,uuid = ,indexName =  ,time elapse =16059ms,result={'keyword': []}.
+2020-10-28 18:04:15,323 - __main__ - INFO - Program version-1.3.1, Content length = 3384,uuid = ,indexName =  ,time elapse =60117ms,result={'keyword': ['1#中国', '3#九江', '2#江西']}.
+2020-10-28 18:04:15,343 - __main__ - INFO - Program version-1.3.1, Content length = 957,uuid = ,indexName =  ,time elapse =19941ms,result={'keyword': ['2#广东', '2#湖南', '3#云浮']}.
+2020-10-28 18:04:15,343 - __main__ - INFO - Program version-1.3.1, Content length = 208,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#昆山市']}.
+2020-10-28 18:04:15,383 - __main__ - INFO - Program version-1.3.1, Content length = 2236,uuid = ,indexName =  ,time elapse =30209ms,result={'keyword': ['4#武宁县', '2#江西', '4#永修县']}.
+2020-10-28 18:04:15,393 - __main__ - INFO - Program version-1.3.1, Content length = 482,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#湖北']}.
+2020-10-28 18:04:15,408 - __main__ - INFO - Program version-1.3.1, Content length = 368,uuid = ,indexName =  ,time elapse =5037ms,result={'keyword': ['1#中国', '2#浙江']}.
+2020-10-28 18:04:15,444 - __main__ - INFO - Program version-1.3.1, Content length = 2173,uuid = ,indexName =  ,time elapse =30138ms,result={'keyword': []}.
+2020-10-28 18:04:15,479 - __main__ - INFO - Program version-1.3.1, Content length = 1375,uuid = ,indexName =  ,time elapse =25341ms,result={'keyword': ['3#三亚', '2#北京', '2#海南', '2#上海']}.
+2020-10-28 18:04:15,513 - __main__ - INFO - Program version-1.3.1, Content length = 2443,uuid = ,indexName =  ,time elapse =34843ms,result={'keyword': []}.
+2020-10-28 18:04:15,523 - __main__ - INFO - Program version-1.3.1, Content length = 32,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:15,553 - __main__ - INFO - Program version-1.3.1, Content length = 1460,uuid = ,indexName =  ,time elapse =30222ms,result={'keyword': ['3#沈阳', '2#辽宁', '4#皇姑区', '4#铁西区', '4#苏家屯区']}.
+2020-10-28 18:04:15,573 - __main__ - INFO - Program version-1.3.1, Content length = 1082,uuid = ,indexName =  ,time elapse =20114ms,result={'keyword': []}.
+2020-10-28 18:04:15,579 - __main__ - INFO - Program version-1.3.1, Content length = 139,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#青田县']}.
+2020-10-28 18:04:15,593 - __main__ - INFO - Program version-1.3.1, Content length = 558,uuid = ,indexName =  ,time elapse =10224ms,result={'keyword': ['3#九江']}.
+2020-10-28 18:04:15,604 - __main__ - INFO - Program version-1.3.1, Content length = 398,uuid = ,indexName =  ,time elapse =10250ms,result={'keyword': ['4#市中区']}.
+2020-10-28 18:04:15,604 - __main__ - INFO - Program version-1.3.1, Content length = 8,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:15,623 - __main__ - INFO - Program version-1.3.1, Content length = 467,uuid = ,indexName =  ,time elapse =9937ms,result={'keyword': []}.
+2020-10-28 18:04:15,633 - __main__ - INFO - Program version-1.3.1, Content length = 436,uuid = ,indexName =  ,time elapse =10284ms,result={'keyword': ['4#武宁县', '1#中国', '4#和县']}.
+2020-10-28 18:04:15,643 - __main__ - INFO - Program version-1.3.1, Content length = 545,uuid = ,indexName =  ,time elapse =9805ms,result={'keyword': []}.
+2020-10-28 18:04:15,713 - __main__ - INFO - Program version-1.3.1, Content length = 4087,uuid = ,indexName =  ,time elapse =70152ms,result={'keyword': ['3#资阳', '2#四川', '4#安岳县']}.
+2020-10-28 18:04:15,723 - __main__ - INFO - Program version-1.3.1, Content length = 219,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#九江', '4#城区']}.
+2020-10-28 18:04:15,743 - __main__ - INFO - Program version-1.3.1, Content length = 878,uuid = ,indexName =  ,time elapse =19927ms,result={'keyword': ['4#城区', '4#兴业县', '2#广西']}.
+2020-10-28 18:04:15,764 - __main__ - INFO - Program version-1.3.1, Content length = 1221,uuid = ,indexName =  ,time elapse =20188ms,result={'keyword': []}.
+2020-10-28 18:04:15,788 - __main__ - INFO - Program version-1.3.1, Content length = 914,uuid = ,indexName =  ,time elapse =15037ms,result={'keyword': ['4#玉州区']}.
+2020-10-28 18:04:15,808 - __main__ - INFO - Program version-1.3.1, Content length = 1037,uuid = ,indexName =  ,time elapse =14903ms,result={'keyword': ['2#西藏', '4#察雅县', '3#昌都']}.
+2020-10-28 18:04:15,818 - __main__ - INFO - Program version-1.3.1, Content length = 416,uuid = ,indexName =  ,time elapse =5032ms,result={'keyword': []}.
+2020-10-28 18:04:15,823 - __main__ - INFO - Program version-1.3.1, Content length = 315,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#城区']}.
+2020-10-28 18:04:15,838 - __main__ - INFO - Program version-1.3.1, Content length = 356,uuid = ,indexName =  ,time elapse =5037ms,result={'keyword': ['4#宁南县', '4#城区']}.
+2020-10-28 18:04:15,853 - __main__ - INFO - Program version-1.3.1, Content length = 706,uuid = ,indexName =  ,time elapse =10082ms,result={'keyword': ['4#电白区']}.
+2020-10-28 18:04:15,868 - __main__ - INFO - Program version-1.3.1, Content length = 887,uuid = ,indexName =  ,time elapse =15264ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:15,879 - __main__ - INFO - Program version-1.3.1, Content length = 420,uuid = ,indexName =  ,time elapse =5724ms,result={'keyword': ['4#怀远县', '2#安徽']}.
+2020-10-28 18:04:15,883 - __main__ - INFO - Program version-1.3.1, Content length = 303,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#南阳']}.
+2020-10-28 18:04:15,893 - __main__ - INFO - Program version-1.3.1, Content length = 17,uuid = ,indexName =  ,time elapse =9879ms,result={'keyword': []}.
+2020-10-28 18:04:15,893 - __main__ - INFO - Program version-1.3.1, Content length = 8,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:15,903 - __main__ - INFO - Program version-1.3.1, Content length = 49,uuid = ,indexName =  ,time elapse =9928ms,result={'keyword': []}.
+2020-10-28 18:04:15,903 - __main__ - INFO - Program version-1.3.1, Content length = 57,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#浙江', '4#余杭区']}.
+2020-10-28 18:04:15,903 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:15,913 - __main__ - INFO - Program version-1.3.1, Content length = 390,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#五原县', '3#巴彦淖尔']}.
+2020-10-28 18:04:15,923 - __main__ - INFO - Program version-1.3.1, Content length = 341,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:15,953 - __main__ - INFO - Program version-1.3.1, Content length = 1763,uuid = ,indexName =  ,time elapse =19835ms,result={'keyword': ['3#河池', '4#环江毛南族自治县', '2#广西']}.
+2020-10-28 18:04:15,969 - __main__ - INFO - Program version-1.3.1, Content length = 127,uuid = ,indexName =  ,time elapse =5038ms,result={'keyword': []}.
+2020-10-28 18:04:16,003 - __main__ - INFO - Program version-1.3.1, Content length = 2130,uuid = ,indexName =  ,time elapse =34748ms,result={'keyword': ['1#中国', '2#西藏', '3#山南']}.
+2020-10-28 18:04:16,013 - __main__ - INFO - Program version-1.3.1, Content length = 493,uuid = ,indexName =  ,time elapse =10167ms,result={'keyword': ['2#河南', '4#新野县', '4#镇平县']}.
+2020-10-28 18:04:16,053 - __main__ - INFO - Program version-1.3.1, Content length = 2497,uuid = ,indexName =  ,time elapse =39739ms,result={'keyword': ['1#中国', '4#昭觉县', '3#佛山', '2#四川', '4#盐源县', '2#贵州', '4#金阳县', '2#浙江', '2#广东', '4#雷波县']}.
+2020-10-28 18:04:16,073 - __main__ - INFO - Program version-1.3.1, Content length = 392,uuid = ,indexName =  ,time elapse =10248ms,result={'keyword': []}.
+2020-10-28 18:04:16,098 - __main__ - INFO - Program version-1.3.1, Content length = 1234,uuid = ,indexName =  ,time elapse =18638ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:16,113 - __main__ - INFO - Program version-1.3.1, Content length = 397,uuid = ,indexName =  ,time elapse =10294ms,result={'keyword': ['3#乐东黎族自治县']}.
+2020-10-28 18:04:16,123 - __main__ - INFO - Program version-1.3.1, Content length = 493,uuid = ,indexName =  ,time elapse =9849ms,result={'keyword': ['2#福建', '4#临洮县', '3#福州', '4#通渭县', '4#大东海']}.
+2020-10-28 18:04:16,143 - __main__ - INFO - Program version-1.3.1, Content length = 1108,uuid = ,indexName =  ,time elapse =19823ms,result={'keyword': ['4#桥东区']}.
+2020-10-28 18:04:16,143 - __main__ - INFO - Program version-1.3.1, Content length = 6,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:16,153 - __main__ - INFO - Program version-1.3.1, Content length = 185,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#北京', '3#大兴区']}.
+2020-10-28 18:04:16,163 - __main__ - INFO - Program version-1.3.1, Content length = 278,uuid = ,indexName =  ,time elapse =10281ms,result={'keyword': ['3#沈阳']}.
+2020-10-28 18:04:16,188 - __main__ - INFO - Program version-1.3.1, Content length = 1133,uuid = ,indexName =  ,time elapse =24976ms,result={'keyword': []}.
+2020-10-28 18:04:16,253 - __main__ - INFO - Program version-1.3.1, Content length = 3246,uuid = ,indexName =  ,time elapse =59642ms,result={'keyword': ['2#天津']}.
+2020-10-28 18:04:16,283 - __main__ - INFO - Program version-1.3.1, Content length = 890,uuid = ,indexName =  ,time elapse =20212ms,result={'keyword': ['4#城区']}.
+2020-10-28 18:04:16,283 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:16,293 - __main__ - INFO - Program version-1.3.1, Content length = 568,uuid = ,indexName =  ,time elapse =9913ms,result={'keyword': []}.
+2020-10-28 18:04:16,313 - __main__ - INFO - Program version-1.3.1, Content length = 581,uuid = ,indexName =  ,time elapse =9931ms,result={'keyword': ['4#汶上县']}.
+2020-10-28 18:04:16,344 - __main__ - INFO - Program version-1.3.1, Content length = 1435,uuid = ,indexName =  ,time elapse =30171ms,result={'keyword': ['2#河北', '2#河南']}.
+2020-10-28 18:04:16,353 - __main__ - INFO - Program version-1.3.1, Content length = 704,uuid = ,indexName =  ,time elapse =9544ms,result={'keyword': ['4#巢湖市', '4#金寨县']}.
+2020-10-28 18:04:16,383 - __main__ - INFO - Program version-1.3.1, Content length = 1236,uuid = ,indexName =  ,time elapse =20065ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:16,393 - __main__ - INFO - Program version-1.3.1, Content length = 279,uuid = ,indexName =  ,time elapse =9821ms,result={'keyword': []}.
+2020-10-28 18:04:16,419 - __main__ - INFO - Program version-1.3.1, Content length = 1394,uuid = ,indexName =  ,time elapse =25408ms,result={'keyword': ['4#播州区', '2#重庆', '2#湖南', '2#贵州']}.
+2020-10-28 18:04:16,433 - __main__ - INFO - Program version-1.3.1, Content length = 693,uuid = ,indexName =  ,time elapse =10083ms,result={'keyword': ['2#福建', '2#甘肃', '3#福州']}.
+2020-10-28 18:04:16,433 - __main__ - INFO - Program version-1.3.1, Content length = 480,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:16,463 - __main__ - INFO - Program version-1.3.1, Content length = 1382,uuid = ,indexName =  ,time elapse =19929ms,result={'keyword': ['1#中国', '4#城区', '2#江苏']}.
+2020-10-28 18:04:16,463 - __main__ - INFO - Program version-1.3.1, Content length = 6,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:16,473 - __main__ - INFO - Program version-1.3.1, Content length = 186,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#天津']}.
+2020-10-28 18:04:16,483 - __main__ - INFO - Program version-1.3.1, Content length = 437,uuid = ,indexName =  ,time elapse =3596ms,result={'keyword': []}.
+2020-10-28 18:04:16,503 - __main__ - INFO - Program version-1.3.1, Content length = 1050,uuid = ,indexName =  ,time elapse =9625ms,result={'keyword': []}.
+2020-10-28 18:04:16,534 - __main__ - INFO - Program version-1.3.1, Content length = 1466,uuid = ,indexName =  ,time elapse =20323ms,result={'keyword': ['2#海南']}.
+2020-10-28 18:04:16,543 - __main__ - INFO - Program version-1.3.1, Content length = 443,uuid = ,indexName =  ,time elapse =9657ms,result={'keyword': ['2#安徽']}.
+2020-10-28 18:04:16,553 - __main__ - INFO - Program version-1.3.1, Content length = 210,uuid = ,indexName =  ,time elapse =10080ms,result={'keyword': ['4#利辛县']}.
+2020-10-28 18:04:16,563 - __main__ - INFO - Program version-1.3.1, Content length = 496,uuid = ,indexName =  ,time elapse =5057ms,result={'keyword': ['4#秭归县']}.
+2020-10-28 18:04:16,588 - __main__ - INFO - Program version-1.3.1, Content length = 1122,uuid = ,indexName =  ,time elapse =14787ms,result={'keyword': ['4#沈北新区', '3#沈阳']}.
+2020-10-28 18:04:16,593 - __main__ - INFO - Program version-1.3.1, Content length = 44,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:16,593 - __main__ - INFO - Program version-1.3.1, Content length = 47,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:16,603 - __main__ - INFO - Program version-1.3.1, Content length = 331,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#南宁']}.
+2020-10-28 18:04:16,624 - __main__ - INFO - Program version-1.3.1, Content length = 470,uuid = ,indexName =  ,time elapse =10469ms,result={'keyword': ['2#湖北']}.
+2020-10-28 18:04:16,633 - __main__ - INFO - Program version-1.3.1, Content length = 790,uuid = ,indexName =  ,time elapse =9847ms,result={'keyword': []}.
+2020-10-28 18:04:16,654 - __main__ - INFO - Program version-1.3.1, Content length = 951,uuid = ,indexName =  ,time elapse =10081ms,result={'keyword': ['2#山东']}.
+2020-10-28 18:04:16,673 - __main__ - INFO - Program version-1.3.1, Content length = 854,uuid = ,indexName =  ,time elapse =9974ms,result={'keyword': ['2#浙江', '2#江苏']}.
+2020-10-28 18:04:16,713 - __main__ - INFO - Program version-1.3.1, Content length = 2440,uuid = ,indexName =  ,time elapse =33133ms,result={'keyword': ['4#硚口区', '4#江汉区', '3#武汉', '4#江岸区']}.
+2020-10-28 18:04:16,723 - __main__ - INFO - Program version-1.3.1, Content length = 259,uuid = ,indexName =  ,time elapse =9947ms,result={'keyword': []}.
+2020-10-28 18:04:16,753 - __main__ - INFO - Program version-1.3.1, Content length = 1766,uuid = ,indexName =  ,time elapse =30029ms,result={'keyword': ['2#北京', '3#广州', '2#上海']}.
+2020-10-28 18:04:16,783 - __main__ - INFO - Program version-1.3.1, Content length = 1580,uuid = ,indexName =  ,time elapse =29921ms,result={'keyword': ['2#湖北', '4#类乌齐县', '3#昌都']}.
+2020-10-28 18:04:16,803 - __main__ - INFO - Program version-1.3.1, Content length = 801,uuid = ,indexName =  ,time elapse =10307ms,result={'keyword': ['4#城区', '2#上海']}.
+2020-10-28 18:04:16,814 - __main__ - INFO - Program version-1.3.1, Content length = 520,uuid = ,indexName =  ,time elapse =10090ms,result={'keyword': []}.
+2020-10-28 18:04:16,833 - __main__ - INFO - Program version-1.3.1, Content length = 531,uuid = ,indexName =  ,time elapse =10020ms,result={'keyword': []}.
+2020-10-28 18:04:16,833 - __main__ - INFO - Program version-1.3.1, Content length = 44,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#余杭区']}.
+2020-10-28 18:04:16,880 - __main__ - INFO - Program version-1.3.1, Content length = 2403,uuid = ,indexName =  ,time elapse =46810ms,result={'keyword': ['4#大新县', '3#崇左', '2#广西']}.
+2020-10-28 18:04:16,893 - __main__ - INFO - Program version-1.3.1, Content length = 491,uuid = ,indexName =  ,time elapse =9614ms,result={'keyword': ['1#中国', '2#福建']}.
+2020-10-28 18:04:16,893 - __main__ - INFO - Program version-1.3.1, Content length = 157,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:16,903 - __main__ - INFO - Program version-1.3.1, Content length = 49,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:16,903 - __main__ - INFO - Program version-1.3.1, Content length = 57,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:16,933 - __main__ - INFO - Program version-1.3.1, Content length = 1243,uuid = ,indexName =  ,time elapse =19771ms,result={'keyword': ['4#云和县', '2#浙江', '3#丽水']}.
+2020-10-28 18:04:16,933 - __main__ - INFO - Program version-1.3.1, Content length = 169,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#长春']}.
+2020-10-28 18:04:16,933 - __main__ - INFO - Program version-1.3.1, Content length = 19,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:16,943 - __main__ - INFO - Program version-1.3.1, Content length = 45,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:16,963 - __main__ - INFO - Program version-1.3.1, Content length = 1096,uuid = ,indexName =  ,time elapse =19937ms,result={'keyword': ['1#中国', '2#香港', '2#北京', '2#新疆']}.
+2020-10-28 18:04:16,973 - __main__ - INFO - Program version-1.3.1, Content length = 8,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:17,023 - __main__ - INFO - Program version-1.3.1, Content length = 2783,uuid = ,indexName =  ,time elapse =49918ms,result={'keyword': ['4#绿园区', '4#农安县', '4#宽城区', '4#南关区', '4#双阳区', '3#朝阳区', '3#长春']}.
+2020-10-28 18:04:17,033 - __main__ - INFO - Program version-1.3.1, Content length = 196,uuid = ,indexName =  ,time elapse =10127ms,result={'keyword': ['2#湖北']}.
+2020-10-28 18:04:17,033 - __main__ - INFO - Program version-1.3.1, Content length = 50,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#余杭区']}.
+2020-10-28 18:04:17,053 - __main__ - INFO - Program version-1.3.1, Content length = 644,uuid = ,indexName =  ,time elapse =10139ms,result={'keyword': []}.
+2020-10-28 18:04:17,053 - __main__ - INFO - Program version-1.3.1, Content length = 159,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#城区']}.
+2020-10-28 18:04:17,063 - __main__ - INFO - Program version-1.3.1, Content length = 287,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#湖北']}.
+2020-10-28 18:04:17,080 - __main__ - INFO - Program version-1.3.1, Content length = 595,uuid = ,indexName =  ,time elapse =6915ms,result={'keyword': ['4#洪湖市']}.
+2020-10-28 18:04:17,083 - __main__ - INFO - Program version-1.3.1, Content length = 404,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#枣阳市']}.
+2020-10-28 18:04:17,153 - __main__ - INFO - Program version-1.3.1, Content length = 3389,uuid = ,indexName =  ,time elapse =60320ms,result={'keyword': ['1#中国', '3#随州']}.
+2020-10-28 18:04:17,177 - __main__ - INFO - Program version-1.3.1, Content length = 1170,uuid = ,indexName =  ,time elapse =23874ms,result={'keyword': []}.
+2020-10-28 18:04:17,198 - __main__ - INFO - Program version-1.3.1, Content length = 829,uuid = ,indexName =  ,time elapse =15948ms,result={'keyword': ['1#中国', '2#山西']}.
+2020-10-28 18:04:17,213 - __main__ - INFO - Program version-1.3.1, Content length = 492,uuid = ,indexName =  ,time elapse =10002ms,result={'keyword': ['4#电白区']}.
+2020-10-28 18:04:17,246 - __main__ - INFO - Program version-1.3.1, Content length = 1247,uuid = ,indexName =  ,time elapse =32878ms,result={'keyword': ['4#宣恩县']}.
+2020-10-28 18:04:17,263 - __main__ - INFO - Program version-1.3.1, Content length = 934,uuid = ,indexName =  ,time elapse =13898ms,result={'keyword': []}.
+2020-10-28 18:04:17,280 - __main__ - INFO - Program version-1.3.1, Content length = 407,uuid = ,indexName =  ,time elapse =7048ms,result={'keyword': ['3#密云区', '2#北京']}.
+2020-10-28 18:04:17,283 - __main__ - INFO - Program version-1.3.1, Content length = 347,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#汶上县']}.
+2020-10-28 18:04:17,293 - __main__ - INFO - Program version-1.3.1, Content length = 586,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#恩平市']}.
+2020-10-28 18:04:17,323 - __main__ - INFO - Program version-1.3.1, Content length = 1442,uuid = ,indexName =  ,time elapse =19909ms,result={'keyword': ['3#东丽区', '3#北辰区', '3#河东区']}.
+2020-10-28 18:04:17,333 - __main__ - INFO - Program version-1.3.1, Content length = 166,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:17,333 - __main__ - INFO - Program version-1.3.1, Content length = 15,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:17,353 - __main__ - INFO - Program version-1.3.1, Content length = 506,uuid = ,indexName =  ,time elapse =10049ms,result={'keyword': ['4#凤阳县']}.
+2020-10-28 18:04:17,353 - __main__ - INFO - Program version-1.3.1, Content length = 6,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:17,383 - __main__ - INFO - Program version-1.3.1, Content length = 1094,uuid = ,indexName =  ,time elapse =19672ms,result={'keyword': ['2#安徽', '2#内蒙古', '2#广西', '4#苍梧县', '4#藤县', '2#广东', '3#梧州']}.
+2020-10-28 18:04:17,403 - __main__ - INFO - Program version-1.3.1, Content length = 858,uuid = ,indexName =  ,time elapse =20384ms,result={'keyword': ['2#海南', '2#广西']}.
+2020-10-28 18:04:17,403 - __main__ - INFO - Program version-1.3.1, Content length = 47,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#余杭区']}.
+2020-10-28 18:04:17,423 - __main__ - INFO - Program version-1.3.1, Content length = 505,uuid = ,indexName =  ,time elapse =10118ms,result={'keyword': ['3#云浮', '4#郁南县']}.
+2020-10-28 18:04:17,443 - __main__ - INFO - Program version-1.3.1, Content length = 1353,uuid = ,indexName =  ,time elapse =19817ms,result={'keyword': ['3#信阳', '2#河南']}.
+2020-10-28 18:04:17,474 - __main__ - INFO - Program version-1.3.1, Content length = 823,uuid = ,indexName =  ,time elapse =20355ms,result={'keyword': ['2#北京', '3#呼和浩特']}.
+2020-10-28 18:04:17,523 - __main__ - INFO - Program version-1.3.1, Content length = 2520,uuid = ,indexName =  ,time elapse =43045ms,result={'keyword': ['1#中国', '2#贵州', '2#浙江', '4#晴隆县', '4#兴义市', '2#江西', '4#普安县', '3#东城区']}.
+2020-10-28 18:04:17,533 - __main__ - INFO - Program version-1.3.1, Content length = 159,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:17,548 - __main__ - INFO - Program version-1.3.1, Content length = 433,uuid = ,indexName =  ,time elapse =4561ms,result={'keyword': ['4#靖江市', '2#江苏']}.
+2020-10-28 18:04:17,580 - __main__ - INFO - Program version-1.3.1, Content length = 1049,uuid = ,indexName =  ,time elapse =27266ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:17,583 - __main__ - INFO - Program version-1.3.1, Content length = 211,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:17,603 - __main__ - INFO - Program version-1.3.1, Content length = 638,uuid = ,indexName =  ,time elapse =10137ms,result={'keyword': []}.
+2020-10-28 18:04:17,623 - __main__ - INFO - Program version-1.3.1, Content length = 421,uuid = ,indexName =  ,time elapse =9778ms,result={'keyword': ['4#潜山县', '4#霍山县', '4#岳西县', '4#金寨县', '3#安庆', '4#金安区', '2#安徽', '4#裕安区', '4#舒城县', '4#太湖县', '3#六安']}.
+2020-10-28 18:04:17,623 - __main__ - INFO - Program version-1.3.1, Content length = 113,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#龙里县']}.
+2020-10-28 18:04:17,633 - __main__ - INFO - Program version-1.3.1, Content length = 121,uuid = ,indexName =  ,time elapse =67ms,result={'keyword': []}.
+2020-10-28 18:04:17,653 - __main__ - INFO - Program version-1.3.1, Content length = 977,uuid = ,indexName =  ,time elapse =20147ms,result={'keyword': ['4#高州市']}.
+2020-10-28 18:04:17,668 - __main__ - INFO - Program version-1.3.1, Content length = 440,uuid = ,indexName =  ,time elapse =14635ms,result={'keyword': []}.
+2020-10-28 18:04:17,693 - __main__ - INFO - Program version-1.3.1, Content length = 998,uuid = ,indexName =  ,time elapse =20002ms,result={'keyword': []}.
+2020-10-28 18:04:17,713 - __main__ - INFO - Program version-1.3.1, Content length = 554,uuid = ,indexName =  ,time elapse =20108ms,result={'keyword': []}.
+2020-10-28 18:04:17,783 - __main__ - INFO - Program version-1.3.1, Content length = 3448,uuid = ,indexName =  ,time elapse =70051ms,result={'keyword': ['1#中国', '3#资阳', '2#四川']}.
+2020-10-28 18:04:17,793 - __main__ - INFO - Program version-1.3.1, Content length = 286,uuid = ,indexName =  ,time elapse =9812ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:17,803 - __main__ - INFO - Program version-1.3.1, Content length = 321,uuid = ,indexName =  ,time elapse =10299ms,result={'keyword': ['4#惠东县']}.
+2020-10-28 18:04:17,823 - __main__ - INFO - Program version-1.3.1, Content length = 535,uuid = ,indexName =  ,time elapse =10194ms,result={'keyword': ['4#东区', '2#四川']}.
+2020-10-28 18:04:17,833 - __main__ - INFO - Program version-1.3.1, Content length = 262,uuid = ,indexName =  ,time elapse =9937ms,result={'keyword': ['3#定安县']}.
+2020-10-28 18:04:17,843 - __main__ - INFO - Program version-1.3.1, Content length = 657,uuid = ,indexName =  ,time elapse =9967ms,result={'keyword': ['4#凤阳县']}.
+2020-10-28 18:04:17,863 - __main__ - INFO - Program version-1.3.1, Content length = 521,uuid = ,indexName =  ,time elapse =10069ms,result={'keyword': ['4#城区']}.
+2020-10-28 18:04:17,893 - __main__ - INFO - Program version-1.3.1, Content length = 1103,uuid = ,indexName =  ,time elapse =29848ms,result={'keyword': ['1#中国', '3#宁波', '2#浙江']}.
+2020-10-28 18:04:17,893 - __main__ - INFO - Program version-1.3.1, Content length = 162,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#长泰县']}.
+2020-10-28 18:04:17,913 - __main__ - INFO - Program version-1.3.1, Content length = 968,uuid = ,indexName =  ,time elapse =10085ms,result={'keyword': ['2#内蒙古', '2#山西', '2#河北']}.
+2020-10-28 18:04:17,943 - __main__ - INFO - Program version-1.3.1, Content length = 1173,uuid = ,indexName =  ,time elapse =20024ms,result={'keyword': []}.
+2020-10-28 18:04:17,953 - __main__ - INFO - Program version-1.3.1, Content length = 329,uuid = ,indexName =  ,time elapse =10114ms,result={'keyword': []}.
+2020-10-28 18:04:17,953 - __main__ - INFO - Program version-1.3.1, Content length = 105,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#琅琊区']}.
+2020-10-28 18:04:17,973 - __main__ - INFO - Program version-1.3.1, Content length = 820,uuid = ,indexName =  ,time elapse =9978ms,result={'keyword': ['4#上虞区', '3#绍兴']}.
+2020-10-28 18:04:18,003 - __main__ - INFO - Program version-1.3.1, Content length = 1581,uuid = ,indexName =  ,time elapse =22234ms,result={'keyword': ['4#甘泉县']}.
+2020-10-28 18:04:18,043 - __main__ - INFO - Program version-1.3.1, Content length = 2020,uuid = ,indexName =  ,time elapse =29753ms,result={'keyword': ['2#江西', '4#分宜县']}.
+2020-10-28 18:04:18,053 - __main__ - INFO - Program version-1.3.1, Content length = 153,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#涡阳县']}.
+2020-10-28 18:04:18,063 - __main__ - INFO - Program version-1.3.1, Content length = 548,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:18,083 - __main__ - INFO - Program version-1.3.1, Content length = 506,uuid = ,indexName =  ,time elapse =10180ms,result={'keyword': ['2#湖南']}.
+2020-10-28 18:04:18,103 - __main__ - INFO - Program version-1.3.1, Content length = 958,uuid = ,indexName =  ,time elapse =19716ms,result={'keyword': ['4#琅琊区']}.
+2020-10-28 18:04:18,113 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:18,123 - __main__ - INFO - Program version-1.3.1, Content length = 612,uuid = ,indexName =  ,time elapse =10041ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:18,133 - __main__ - INFO - Program version-1.3.1, Content length = 75,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:18,143 - __main__ - INFO - Program version-1.3.1, Content length = 411,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:18,153 - __main__ - INFO - Program version-1.3.1, Content length = 43,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#余杭区']}.
+2020-10-28 18:04:18,173 - __main__ - INFO - Program version-1.3.1, Content length = 413,uuid = ,indexName =  ,time elapse =19908ms,result={'keyword': ['4#范县']}.
+2020-10-28 18:04:18,183 - __main__ - INFO - Program version-1.3.1, Content length = 332,uuid = ,indexName =  ,time elapse =10282ms,result={'keyword': ['4#枝江市']}.
+2020-10-28 18:04:18,214 - __main__ - INFO - Program version-1.3.1, Content length = 1771,uuid = ,indexName =  ,time elapse =30080ms,result={'keyword': []}.
+2020-10-28 18:04:18,245 - __main__ - INFO - Program version-1.3.1, Content length = 1268,uuid = ,indexName =  ,time elapse =31543ms,result={'keyword': ['1#中国', '2#北京']}.
+2020-10-28 18:04:18,283 - __main__ - INFO - Program version-1.3.1, Content length = 2662,uuid = ,indexName =  ,time elapse =32562ms,result={'keyword': ['4#岷县', '2#甘肃', '3#西城区', '3#定西']}.
+2020-10-28 18:04:18,293 - __main__ - INFO - Program version-1.3.1, Content length = 347,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国', '2#北京']}.
+2020-10-28 18:04:18,303 - __main__ - INFO - Program version-1.3.1, Content length = 187,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['1#中国', '3#延安']}.
+2020-10-28 18:04:18,333 - __main__ - INFO - Program version-1.3.1, Content length = 1349,uuid = ,indexName =  ,time elapse =19813ms,result={'keyword': ['1#中国']}.
+2020-10-28 18:04:18,353 - __main__ - INFO - Program version-1.3.1, Content length = 581,uuid = ,indexName =  ,time elapse =10196ms,result={'keyword': ['4#古城区']}.
+2020-10-28 18:04:18,358 - __main__ - INFO - Program version-1.3.1, Content length = 166,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:18,383 - __main__ - INFO - Program version-1.3.1, Content length = 1165,uuid = ,indexName =  ,time elapse =19572ms,result={'keyword': ['4#固阳县', '3#包头']}.
+2020-10-28 18:04:18,403 - __main__ - INFO - Program version-1.3.1, Content length = 655,uuid = ,indexName =  ,time elapse =9985ms,result={'keyword': ['4#任城区']}.
+2020-10-28 18:04:18,413 - __main__ - INFO - Program version-1.3.1, Content length = 415,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#郴州']}.
+2020-10-28 18:04:18,513 - __main__ - INFO - Program version-1.3.1, Content length = 5464,uuid = ,indexName =  ,time elapse =89976ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:18,513 - __main__ - INFO - Program version-1.3.1, Content length = 155,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:18,543 - __main__ - INFO - Program version-1.3.1, Content length = 1017,uuid = ,indexName =  ,time elapse =20107ms,result={'keyword': ['2#山东', '4#城区', '3#淄博']}.
+2020-10-28 18:04:18,573 - __main__ - INFO - Program version-1.3.1, Content length = 1591,uuid = ,indexName =  ,time elapse =25119ms,result={'keyword': ['3#鄂州', '2#重庆', '4#新乐市', '2#江苏', '2#陕西', '3#黄冈', '2#北京', '3#房山区', '3#温州', '4#浠水县', '3#烟台', '1#中国', '2#河南', '2#四川', '2#辽宁', '3#濮阳', '3#咸阳', '3#遂宁', '3#昌平区', '3#威海', '2#江西', '4#连山区', '3#广州', '3#涪陵区', '3#葫芦岛', '4#射阳县', '2#浙江', '3#邯郸', '2#广西', '3#汉中', '2#广东', '2#山东', '2#湖北', '3#石家庄', '2#河北', '4#海珠区', '3#十堰', '4#桐乡市', '3#昌吉回族自治州', '3#嘉兴']}.
+2020-10-28 18:04:18,588 - __main__ - INFO - Program version-1.3.1, Content length = 519,uuid = ,indexName =  ,time elapse =15031ms,result={'keyword': ['4#会宁县']}.
+2020-10-28 18:04:18,598 - __main__ - INFO - Program version-1.3.1, Content length = 350,uuid = ,indexName =  ,time elapse =5006ms,result={'keyword': []}.
+2020-10-28 18:04:18,603 - __main__ - INFO - Program version-1.3.1, Content length = 185,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:18,613 - __main__ - INFO - Program version-1.3.1, Content length = 182,uuid = ,indexName =  ,time elapse =9656ms,result={'keyword': ['4#格尔木市', '2#青海', '3#海西蒙古族藏族自治州', '4#河西']}.
+2020-10-28 18:04:18,633 - __main__ - INFO - Program version-1.3.1, Content length = 728,uuid = ,indexName =  ,time elapse =19913ms,result={'keyword': ['4#源汇区']}.
+2020-10-28 18:04:18,643 - __main__ - INFO - Program version-1.3.1, Content length = 327,uuid = ,indexName =  ,time elapse =5054ms,result={'keyword': ['2#河南']}.
+2020-10-28 18:04:18,673 - __main__ - INFO - Program version-1.3.1, Content length = 1548,uuid = ,indexName =  ,time elapse =30382ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:18,688 - __main__ - INFO - Program version-1.3.1, Content length = 318,uuid = ,indexName =  ,time elapse =6040ms,result={'keyword': ['4#信宜市']}.
+2020-10-28 18:04:18,693 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =5068ms,result={'keyword': []}.
+2020-10-28 18:04:18,698 - __main__ - INFO - Program version-1.3.1, Content length = 68,uuid = ,indexName =  ,time elapse =5006ms,result={'keyword': []}.
+2020-10-28 18:04:18,703 - __main__ - INFO - Program version-1.3.1, Content length = 357,uuid = ,indexName =  ,time elapse =5038ms,result={'keyword': []}.
+2020-10-28 18:04:18,733 - __main__ - INFO - Program version-1.3.1, Content length = 1227,uuid = ,indexName =  ,time elapse =20174ms,result={'keyword': ['1#中国', '2#辽宁', '4#铁西区', '3#沈阳']}.
+2020-10-28 18:04:18,733 - __main__ - INFO - Program version-1.3.1, Content length = 12,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:18,743 - __main__ - INFO - Program version-1.3.1, Content length = 68,uuid = ,indexName =  ,time elapse =9990ms,result={'keyword': []}.
+2020-10-28 18:04:18,758 - __main__ - INFO - Program version-1.3.1, Content length = 892,uuid = ,indexName =  ,time elapse =15059ms,result={'keyword': ['1#中国', '4#平利县', '4#城区', '2#陕西']}.
+2020-10-28 18:04:18,794 - __main__ - INFO - Program version-1.3.1, Content length = 1691,uuid = ,indexName =  ,time elapse =30037ms,result={'keyword': ['4#华蓥市']}.
+2020-10-28 18:04:18,813 - __main__ - INFO - Program version-1.3.1, Content length = 268,uuid = ,indexName =  ,time elapse =10138ms,result={'keyword': ['4#霍林郭勒市']}.
+2020-10-28 18:04:18,824 - __main__ - INFO - Program version-1.3.1, Content length = 629,uuid = ,indexName =  ,time elapse =10309ms,result={'keyword': []}.
+2020-10-28 18:04:18,843 - __main__ - INFO - Program version-1.3.1, Content length = 507,uuid = ,indexName =  ,time elapse =9917ms,result={'keyword': []}.
+2020-10-28 18:04:18,843 - __main__ - INFO - Program version-1.3.1, Content length = 103,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#双峰县']}.
+2020-10-28 18:04:18,854 - __main__ - INFO - Program version-1.3.1, Content length = 303,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['3#潼南区', '2#重庆', '2#北京']}.
+2020-10-28 18:04:18,873 - __main__ - INFO - Program version-1.3.1, Content length = 701,uuid = ,indexName =  ,time elapse =10092ms,result={'keyword': ['4#城区']}.
+2020-10-28 18:04:18,893 - __main__ - INFO - Program version-1.3.1, Content length = 764,uuid = ,indexName =  ,time elapse =11586ms,result={'keyword': ['4#新化县']}.
+2020-10-28 18:04:18,904 - __main__ - INFO - Program version-1.3.1, Content length = 279,uuid = ,indexName =  ,time elapse =10119ms,result={'keyword': ['4#娄星区']}.
+2020-10-28 18:04:18,918 - __main__ - INFO - Program version-1.3.1, Content length = 520,uuid = ,indexName =  ,time elapse =14581ms,result={'keyword': ['4#娄星区', '2#湖南']}.
+2020-10-28 18:04:18,923 - __main__ - INFO - Program version-1.3.1, Content length = 297,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:18,943 - __main__ - INFO - Program version-1.3.1, Content length = 592,uuid = ,indexName =  ,time elapse =9971ms,result={'keyword': ['4#双峰县']}.
+2020-10-28 18:04:18,973 - __main__ - INFO - Program version-1.3.1, Content length = 1102,uuid = ,indexName =  ,time elapse =29781ms,result={'keyword': ['2#河南']}.
+2020-10-28 18:04:18,983 - __main__ - INFO - Program version-1.3.1, Content length = 529,uuid = ,indexName =  ,time elapse =10104ms,result={'keyword': []}.
+2020-10-28 18:04:19,053 - __main__ - INFO - Program version-1.3.1, Content length = 3078,uuid = ,indexName =  ,time elapse =64906ms,result={'keyword': ['4#东西湖区', '3#佛山', '2#四川', '4#盐源县', '2#湖北', '3#武汉', '2#广东', '4#三水区', '3#凉山彝族自治州']}.
+2020-10-28 18:04:19,073 - __main__ - INFO - Program version-1.3.1, Content length = 712,uuid = ,indexName =  ,time elapse =19873ms,result={'keyword': []}.
+2020-10-28 18:04:19,083 - __main__ - INFO - Program version-1.3.1, Content length = 325,uuid = ,indexName =  ,time elapse =10329ms,result={'keyword': ['4#三水区']}.
+2020-10-28 18:04:19,083 - __main__ - INFO - Program version-1.3.1, Content length = 401,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#南海区', '3#佛山']}.
+2020-10-28 18:04:19,094 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:19,103 - __main__ - INFO - Program version-1.3.1, Content length = 644,uuid = ,indexName =  ,time elapse =9631ms,result={'keyword': ['3#佛山']}.
+2020-10-28 18:04:19,133 - __main__ - INFO - Program version-1.3.1, Content length = 1109,uuid = ,indexName =  ,time elapse =20315ms,result={'keyword': []}.
+2020-10-28 18:04:19,144 - __main__ - INFO - Program version-1.3.1, Content length = 305,uuid = ,indexName =  ,time elapse =5122ms,result={'keyword': ['2#河南']}.
+2020-10-28 18:04:19,153 - __main__ - INFO - Program version-1.3.1, Content length = 197,uuid = ,indexName =  ,time elapse =9800ms,result={'keyword': ['2#内蒙古', '2#内蒙']}.
+2020-10-28 18:04:19,173 - __main__ - INFO - Program version-1.3.1, Content length = 834,uuid = ,indexName =  ,time elapse =19820ms,result={'keyword': []}.
+2020-10-28 18:04:19,184 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:19,194 - __main__ - INFO - Program version-1.3.1, Content length = 553,uuid = ,indexName =  ,time elapse =10012ms,result={'keyword': ['3#河池', '4#环江毛南族自治县', '2#广西']}.
+2020-10-28 18:04:19,213 - __main__ - INFO - Program version-1.3.1, Content length = 820,uuid = ,indexName =  ,time elapse =10050ms,result={'keyword': []}.
+2020-10-28 18:04:19,273 - __main__ - INFO - Program version-1.3.1, Content length = 2765,uuid = ,indexName =  ,time elapse =59869ms,result={'keyword': []}.
+2020-10-28 18:04:19,283 - __main__ - INFO - Program version-1.3.1, Content length = 72,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:19,303 - __main__ - INFO - Program version-1.3.1, Content length = 1143,uuid = ,indexName =  ,time elapse =20165ms,result={'keyword': ['3#广安', '4#岳池县']}.
+2020-10-28 18:04:19,333 - __main__ - INFO - Program version-1.3.1, Content length = 939,uuid = ,indexName =  ,time elapse =29758ms,result={'keyword': ['4#谯城区']}.
+2020-10-28 18:04:19,353 - __main__ - INFO - Program version-1.3.1, Content length = 632,uuid = ,indexName =  ,time elapse =10089ms,result={'keyword': ['3#武汉']}.
+2020-10-28 18:04:19,363 - __main__ - INFO - Program version-1.3.1, Content length = 822,uuid = ,indexName =  ,time elapse =10055ms,result={'keyword': ['1#中国', '2#内蒙', '4#阿拉善右旗']}.
+2020-10-28 18:04:19,382 - __main__ - INFO - Program version-1.3.1, Content length = 451,uuid = ,indexName =  ,time elapse =8751ms,result={'keyword': ['4#巴马瑶族自治县']}.
+2020-10-28 18:04:19,403 - __main__ - INFO - Program version-1.3.1, Content length = 1167,uuid = ,indexName =  ,time elapse =20076ms,result={'keyword': ['4#隆林各族自治县']}.
+2020-10-28 18:04:19,413 - __main__ - INFO - Program version-1.3.1, Content length = 555,uuid = ,indexName =  ,time elapse =9845ms,result={'keyword': ['4#天峨县']}.
+2020-10-28 18:04:19,443 - __main__ - INFO - Program version-1.3.1, Content length = 1058,uuid = ,indexName =  ,time elapse =20295ms,result={'keyword': ['2#北京', '2#上海']}.
+2020-10-28 18:04:19,453 - __main__ - INFO - Program version-1.3.1, Content length = 453,uuid = ,indexName =  ,time elapse =10180ms,result={'keyword': []}.
+2020-10-28 18:04:19,453 - __main__ - INFO - Program version-1.3.1, Content length = 38,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['2#浙江', '4#余杭区']}.
+2020-10-28 18:04:19,473 - __main__ - INFO - Program version-1.3.1, Content length = 925,uuid = ,indexName =  ,time elapse =19663ms,result={'keyword': []}.
+2020-10-28 18:04:19,483 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:19,493 - __main__ - INFO - Program version-1.3.1, Content length = 110,uuid = ,indexName =  ,time elapse =10029ms,result={'keyword': []}.
+2020-10-28 18:04:19,493 - __main__ - INFO - Program version-1.3.1, Content length = 16,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:19,513 - __main__ - INFO - Program version-1.3.1, Content length = 677,uuid = ,indexName =  ,time elapse =9861ms,result={'keyword': []}.
+2020-10-28 18:04:19,528 - __main__ - INFO - Program version-1.3.1, Content length = 400,uuid = ,indexName =  ,time elapse =15230ms,result={'keyword': []}.
+2020-10-28 18:04:19,533 - __main__ - INFO - Program version-1.3.1, Content length = 6,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:19,553 - __main__ - INFO - Program version-1.3.1, Content length = 440,uuid = ,indexName =  ,time elapse =19834ms,result={'keyword': []}.
+2020-10-28 18:04:19,583 - __main__ - INFO - Program version-1.3.1, Content length = 1201,uuid = ,indexName =  ,time elapse =24876ms,result={'keyword': ['4#慈溪市']}.
+2020-10-28 18:04:19,583 - __main__ - INFO - Program version-1.3.1, Content length = 19,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:19,593 - __main__ - INFO - Program version-1.3.1, Content length = 51,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#余杭区']}.
+2020-10-28 18:04:19,593 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:19,614 - __main__ - INFO - Program version-1.3.1, Content length = 959,uuid = ,indexName =  ,time elapse =10239ms,result={'keyword': []}.
+2020-10-28 18:04:19,623 - __main__ - INFO - Program version-1.3.1, Content length = 187,uuid = ,indexName =  ,time elapse =9917ms,result={'keyword': ['3#杨浦区', '2#上海']}.
+2020-10-28 18:04:19,638 - __main__ - INFO - Program version-1.3.1, Content length = 679,uuid = ,indexName =  ,time elapse =14696ms,result={'keyword': []}.
+2020-10-28 18:04:19,643 - __main__ - INFO - Program version-1.3.1, Content length = 124,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': ['4#沂源县']}.
+2020-10-28 18:04:19,653 - __main__ - INFO - Program version-1.3.1, Content length = 493,uuid = ,indexName =  ,time elapse =10289ms,result={'keyword': []}.
+2020-10-28 18:04:19,663 - __main__ - INFO - Program version-1.3.1, Content length = 110,uuid = ,indexName =  ,time elapse =9657ms,result={'keyword': ['4#景泰县']}.
+2020-10-28 18:04:19,663 - __main__ - INFO - Program version-1.3.1, Content length = 51,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:19,673 - __main__ - INFO - Program version-1.3.1, Content length = 436,uuid = ,indexName =  ,time elapse =10345ms,result={'keyword': ['1#中国', '4#沐川县', '2#四川']}.
+2020-10-28 18:04:19,688 - __main__ - INFO - Program version-1.3.1, Content length = 453,uuid = ,indexName =  ,time elapse =5006ms,result={'keyword': ['4#信丰县']}.
+2020-10-28 18:04:19,704 - __main__ - INFO - Program version-1.3.1, Content length = 534,uuid = ,indexName =  ,time elapse =10334ms,result={'keyword': ['2#北京']}.
+2020-10-28 18:04:19,723 - __main__ - INFO - Program version-1.3.1, Content length = 889,uuid = ,indexName =  ,time elapse =19765ms,result={'keyword': ['2#河南', '4#城区']}.
+2020-10-28 18:04:19,733 - __main__ - INFO - Program version-1.3.1, Content length = 532,uuid = ,indexName =  ,time elapse =9821ms,result={'keyword': ['2#云南', '2#广西', '2#贵州']}.
+2020-10-28 18:04:19,763 - __main__ - INFO - Program version-1.3.1, Content length = 1573,uuid = ,indexName =  ,time elapse =30061ms,result={'keyword': ['4#会东县', '4#会理县']}.
+2020-10-28 18:04:19,773 - __main__ - INFO - Program version-1.3.1, Content length = 101,uuid = ,indexName =  ,time elapse =9972ms,result={'keyword': ['3#雅安']}.
+2020-10-28 18:04:19,773 - __main__ - INFO - Program version-1.3.1, Content length = 7,uuid = ,indexName =  ,time elapse =0ms,result={'keyword': []}.
+2020-10-28 18:04:19,793 - __main__ - INFO - Program version-1.3.1, Content length = 901,uuid = ,indexName =  ,time elapse =19992ms,result={'keyword': ['2#广东']}.
+2020-10-28 18:04:19,803 - __main__ - INFO - Program version-1.3.1, Content length = 164,uuid = ,indexName =  ,time elapse =10263ms,result={'keyword': ['3#潼南区', '2#重庆']}.
+2020-10-28 18:04:19,813 - __main__ - INFO - Program version-1.3.1, Content length = 456,uuid = ,indexName =  ,time elapse =9807ms,result={'keyword': ['2#云南']}.
+2020-10-28 18:04:19,833 - __main__ - INFO - Program version-1.3.1, Content length = 1377,uuid = ,indexName =  ,time elapse =20025ms,result={'keyword': ['2#云南']}.
+2020-10-28 18:04:19,863 - __main__ - INFO - Program version-1.3.1, Content length = 1459,uuid = ,indexName =  ,time elapse =19777ms,result={'keyword': []}.
